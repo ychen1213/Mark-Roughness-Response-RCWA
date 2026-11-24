@@ -1,0 +1,52 @@
+Waiting for a study RCWA worker slot
+joint: 64 cases, queue log joint_15548.jsonl
+RCWA joint_train train_20_s2441 k10x4_d4x20_a3_h4, modes 189
+Saved train_20_s2441 k10x4_d4x20_a3_h4 in 40.4 s
+RCWA joint_train train_21_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved train_21_s1427 k10x8_d4x20_a3_h4 in 46.0 s
+RCWA joint_train train_21_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved train_21_s2441 k10x8_d4x20_a3_h4 in 51.1 s
+RCWA joint_train train_22_s1427 k10x8_d4x20_a3_h4, modes 357
+RCWA attempt 1 train_22_s1427: 'Failed to evaluate code'
+RCWA joint_train train_22_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved train_22_s1427 k10x8_d4x20_a3_h4 in 44.0 s
+RCWA joint_train train_22_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved train_22_s2441 k10x8_d4x20_a3_h4 in 44.0 s
+RCWA joint_train train_23_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved train_23_s1427 k10x8_d4x20_a3_h4 in 41.8 s
+RCWA joint_train train_23_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved train_23_s2441 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA joint_train train_24_s1427 k10x4_d4x20_a3_h4, modes 189
+Saved train_24_s1427 k10x4_d4x20_a3_h4 in 39.7 s
+RCWA joint_train train_24_s2441 k10x4_d4x20_a3_h4, modes 189
+Saved train_24_s2441 k10x4_d4x20_a3_h4 in 43.5 s
+RCWA joint_train train_25_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved train_25_s1427 k10x8_d4x20_a3_h4 in 43.9 s
+RCWA joint_train train_25_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved train_25_s2441 k10x8_d4x20_a3_h4 in 45.8 s
+RCWA joint_train train_26_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved train_26_s1427 k10x8_d4x20_a3_h4 in 43.8 s
+RCWA joint_train train_26_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved train_26_s2441 k10x8_d4x20_a3_h4 in 43.9 s
+RCWA joint_train train_27_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved train_27_s1427 k10x8_d4x20_a3_h4 in 43.9 s
+RCWA joint_train train_27_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved train_27_s2441 k10x8_d4x20_a3_h4 in 44.1 s
+RCWA joint_train train_28_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved train_28_s1427 k10x8_d4x20_a3_h4 in 107.9 s
+RCWA joint_train train_28_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved train_28_s2441 k10x8_d4x20_a3_h4 in 104.4 s
+RCWA joint_train train_29_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved train_29_s1427 k10x8_d4x20_a3_h4 in 41.8 s
+RCWA joint_train train_29_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved train_29_s2441 k10x8_d4x20_a3_h4 in 42.1 s
+RCWA joint_train train_30_s1427 k10x4_d4x20_a3_h4, modes 189
+Saved train_30_s1427 k10x4_d4x20_a3_h4 in 13.9 s
+RCWA joint_train train_30_s2441 k10x4_d4x20_a3_h4, modes 189
+Saved train_30_s2441 k10x4_d4x20_a3_h4 in 15.2 s
+RCWA joint_train train_31_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved train_31_s1427 k10x8_d4x20_a3_h4 in 42.0 s
+RCWA joint_train train_31_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved train_31_s2441 k10x8_d4x20_a3_h4 in 41.9 s
+joint: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot

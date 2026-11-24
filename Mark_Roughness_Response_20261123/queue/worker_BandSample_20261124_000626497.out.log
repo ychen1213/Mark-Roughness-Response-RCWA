@@ -1,0 +1,28 @@
+bands: next 8 cases, queue log bands_44004.jsonl
+RCWA nested_band_screen band_0_s1427_b0.05 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s1427_b0.05 k10x8_d4x3.125_a3_h4 in 123.2 s
+RCWA nested_band_screen band_0_s1427_b0.1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s1427_b0.1 k10x8_d4x3.125_a3_h4 in 111.3 s
+RCWA nested_band_screen band_0_s1427_b0.2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s1427_b0.2 k10x8_d4x3.125_a3_h4 in 116.2 s
+RCWA nested_band_screen band_0_s1427_b0.5 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s1427_b0.5 k10x8_d4x3.125_a3_h4 in 120.5 s
+RCWA nested_band_screen band_0_s1427_b1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s1427_b1 k10x8_d4x3.125_a3_h4 in 118.4 s
+RCWA nested_band_screen band_0_s1427_b2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s1427_b2 k10x8_d4x3.125_a3_h4 in 120.4 s
+RCWA nested_band_screen band_1_s1427_b0.05 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s1427_b0.05 k10x8_d4x3.125_a3_h4 in 106.1 s
+RCWA nested_band_screen band_1_s1427_b0.1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s1427_b0.1 k10x8_d4x3.125_a3_h4 in 112.3 s
+bands: complete, 0 cases unavailable
+bands: next 4 cases, queue log bands_44004.jsonl
+RCWA nested_band_screen band_1_s1427_b0.2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s1427_b0.2 k10x8_d4x3.125_a3_h4 in 113.9 s
+RCWA nested_band_screen band_1_s1427_b0.5 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s1427_b0.5 k10x8_d4x3.125_a3_h4 in 118.5 s
+RCWA nested_band_screen band_1_s1427_b1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s1427_b1 k10x8_d4x3.125_a3_h4 in 128.3 s
+RCWA nested_band_screen band_1_s1427_b2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s1427_b2 k10x8_d4x3.125_a3_h4 in 110.6 s
+bands: complete, 0 cases unavailable

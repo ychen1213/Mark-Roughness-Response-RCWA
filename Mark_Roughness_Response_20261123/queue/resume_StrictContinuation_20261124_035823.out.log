@@ -1,0 +1,1 @@
+Worker 38776 .\additional.py strict_bands --angles 3 --limit 8 --threads 5

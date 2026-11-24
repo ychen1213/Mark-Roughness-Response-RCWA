@@ -1,0 +1,2 @@
+Worker 36856 .\angular_batches.py blind_new_combo_00_s9101 k20x16_d2x10_a3_h4 --size 1 --threads 4 --min-free 11 --indices 5 6 7 8
+Worker exit code 0

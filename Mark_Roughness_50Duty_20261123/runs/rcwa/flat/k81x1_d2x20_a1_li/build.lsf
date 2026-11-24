@@ -1,0 +1,19 @@
+addrect;set("name","substrate");set("x span",8.4e-06);set("z span",1e-05);set("y min",-2e-06);set("y max",3e-07);set("material","Si_643nm_matched");
+addrcwa;set("name","RCWA");
+set("simulation region","2D Z-normal");set("propagation axis","y");set("propagation direction","backward");
+set("x span",6.4e-06);
+set("y min",-1e-07);
+set("y max",7e-07);
+set("z",0);
+set("interface position","absolute");set("interface absolute positions",[0.3]*1e-6);
+set("k vectors domain","rectangular");
+set("max number ku",81);set("max number kv",1);
+set("mesh type","custom");
+set("mesh cells x",3200);
+
+set("mesh refinement","staircase");
+set("use li factorization",1);
+set("fit materials with multi-coefficient model",0);
+set("sample spacing","custom");set("custom frequency samples",4.6624021461897e+14);
+set("incident angle","table");set("incident angle table",[0,0]);
+set("report grating orders",1);set("report grating power",1);set("report grating characterization",1);set("report field amplitudes",1);

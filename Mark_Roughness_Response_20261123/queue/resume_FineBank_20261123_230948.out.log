@@ -1,0 +1,13 @@
+Worker 11452 .\design.py modes --ku 20 --threads 4
+Native child exited for worker 11452. Resuming its uncommitted cases.
+Worker 39228 .\design.py modes --ku 20 --threads 4
+Native child exited for worker 39228. Resuming its uncommitted cases.
+Worker 12320 .\design.py modes --ku 20 --threads 4
+Worker exit code 0
+Worker 23988 .\design.py pairs --ku 20 --threads 4
+Native child exited for worker 23988. Resuming its uncommitted cases.
+Worker 43848 .\design.py pairs --ku 20 --threads 4
+Native child exited for worker 43848. Resuming its uncommitted cases.
+Worker 41992 .\design.py pairs --ku 20 --threads 4
+Native child exited for worker 41992. Resuming its uncommitted cases.
+The worker lost its native process on three launches. Completed results remain available.

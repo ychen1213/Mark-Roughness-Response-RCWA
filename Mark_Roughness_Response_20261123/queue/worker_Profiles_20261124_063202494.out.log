@@ -1,0 +1,15 @@
+Waiting for a study RCWA worker slot
+profile_modes: next 8 cases, queue log profile_modes_23368.jsonl
+profile_modes: complete, 0 cases unavailable
+profile_modes: next 8 cases, queue log profile_modes_23368.jsonl
+Resource limit pmode_cd_nm_0_wp_n2 k5x3_d4x20_a3_h4: 1.02 GiB estimated, 1.15 GiB free
+Resource limit pmode_cd_nm_0_wm_n2 k10x3_d4x20_a3_h4: 1.07 GiB estimated, 1.15 GiB free
+Resource limit pmode_cd_nm_0_cp_n1 k5x3_d4x20_a3_h4: 1.02 GiB estimated, 1.15 GiB free
+Resource limit pmode_cd_nm_0_cm_n1 k10x3_d4x20_a3_h4: 1.07 GiB estimated, 1.15 GiB free
+profile_modes: complete, 4 cases unavailable
+profile_modes: next 8 cases, queue log profile_modes_23368.jsonl
+profile_modes: complete, 0 cases unavailable
+profile_modes: next 8 cases, queue log profile_modes_23368.jsonl
+profile_modes: complete, 0 cases unavailable
+profile_modes: next 8 cases, queue log profile_modes_23368.jsonl
+profile_modes: complete, 0 cases unavailable

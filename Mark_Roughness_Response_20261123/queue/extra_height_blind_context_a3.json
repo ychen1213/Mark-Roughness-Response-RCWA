@@ -1,0 +1,16 @@
+[
+  {
+    "case": "hmode_r0.5_wm_n2_t+1",
+    "folder": "runs\\hmode_r0.5_wm_n2_t+1\\k10x3_d4x20_a3_h4",
+    "hash": "fb15b95031ce8da80e10004e44dab94cc4b704b1850c610a4a6425f2dcf1a039",
+    "group": "height_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "hmode_r0.5_wm_n2_t-1",
+    "folder": "runs\\hmode_r0.5_wm_n2_t-1\\k10x3_d4x20_a3_h4",
+    "hash": "a1ad8b073b6073f95b14ea9d220d4006240c736c90290957aa6d71250e2c7796",
+    "group": "height_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  }
+]

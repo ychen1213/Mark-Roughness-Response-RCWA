@@ -1,0 +1,97 @@
+Waiting for a study RCWA worker slot
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cp_n2_t-1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_cp_n2_t-1 k5x3_d4x20_a3_h4 in 8.5 s
+height_blind_context: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cm_n2_t+1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_cm_n2_t+1 k10x3_d4x20_a3_h4 in 21.5 s
+height_blind_context: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cm_n2_t-1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_cm_n2_t-1 k10x3_d4x20_a3_h4 in 21.2 s
+height_blind_context: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wp_n2_t+1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_wp_n2_t+1 k5x3_d4x20_a3_h4 in 8.6 s
+height_blind_context: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wp_n2_t-1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_wp_n2_t-1 k5x3_d4x20_a3_h4 in 8.6 s
+height_blind_context: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+Resource limit hmode_r0.5_wm_n2_t+1 k10x3_d4x20_a3_h4: 1.37 GiB estimated, 2.48 GiB free
+height_blind_context: complete, 1 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+Resource limit hmode_r0.5_wm_n2_t-1 k10x3_d4x20_a3_h4: 1.37 GiB estimated, 2.49 GiB free
+height_blind_context: complete, 1 cases unavailable
+Waiting for a study RCWA worker slot
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cp_n1_t+1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_cp_n1_t+1 k5x3_d4x20_a3_h4 in 15.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cp_n1_t-1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_cp_n1_t-1 k5x3_d4x20_a3_h4 in 15.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cm_n1_t+1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_cm_n1_t+1 k10x3_d4x20_a3_h4 in 35.9 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cm_n1_t-1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_cm_n1_t-1 k10x3_d4x20_a3_h4 in 36.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wp_n1_t+1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_wp_n1_t+1 k5x3_d4x20_a3_h4 in 15.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wp_n1_t-1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_wp_n1_t-1 k5x3_d4x20_a3_h4 in 16.7 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wm_n1_t+1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_wm_n1_t+1 k10x3_d4x20_a3_h4 in 36.8 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wm_n1_t-1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_wm_n1_t-1 k10x3_d4x20_a3_h4 in 35.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cp_n16_t+1 k5x1_d4x20_a3_h4, modes 33
+Saved hmode_r0.5_cp_n16_t+1 k5x1_d4x20_a3_h4 in 3.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cp_n16_t-1 k5x1_d4x20_a3_h4, modes 33
+Saved hmode_r0.5_cp_n16_t-1 k5x1_d4x20_a3_h4 in 2.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cm_n16_t+1 k10x1_d4x20_a3_h4, modes 63
+Saved hmode_r0.5_cm_n16_t+1 k10x1_d4x20_a3_h4 in 5.8 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_cm_n16_t-1 k10x1_d4x20_a3_h4, modes 63
+Saved hmode_r0.5_cm_n16_t-1 k10x1_d4x20_a3_h4 in 5.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wp_n16_t+1 k5x1_d4x20_a3_h4, modes 33
+Saved hmode_r0.5_wp_n16_t+1 k5x1_d4x20_a3_h4 in 3.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wp_n16_t-1 k5x1_d4x20_a3_h4, modes 33
+Saved hmode_r0.5_wp_n16_t-1 k5x1_d4x20_a3_h4 in 3.5 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wm_n16_t+1 k10x1_d4x20_a3_h4, modes 63
+Saved hmode_r0.5_wm_n16_t+1 k10x1_d4x20_a3_h4 in 5.6 s
+height_blind_context: complete, 0 cases unavailable
+height_blind_context: next 1 cases, queue log height_blind_context_12864.jsonl
+RCWA height_kernel hmode_r0.5_wm_n16_t-1 k10x1_d4x20_a3_h4, modes 63
+Saved hmode_r0.5_wm_n16_t-1 k10x1_d4x20_a3_h4 in 5.6 s
+height_blind_context: complete, 0 cases unavailable

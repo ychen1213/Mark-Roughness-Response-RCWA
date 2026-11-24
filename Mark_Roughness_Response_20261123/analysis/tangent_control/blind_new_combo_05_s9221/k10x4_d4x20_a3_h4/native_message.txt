@@ -1,0 +1,1 @@
+Error: prompt line 1:  in run: Error running RCWA simulation: The tangent vector field option should only be used with mesh refinement set to conformal variant 0, 1, or 2. The simulation cannot proceed.

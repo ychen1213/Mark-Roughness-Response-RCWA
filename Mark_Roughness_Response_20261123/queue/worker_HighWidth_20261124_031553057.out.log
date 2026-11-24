@@ -1,0 +1,30 @@
+Waiting for a study RCWA worker slot
+high_width_kernel: next 1 cases, queue log high_width_kernel_27392.jsonl
+high_width_kernel: complete, 0 cases unavailable
+high_width_kernel: next 1 cases, queue log high_width_kernel_27392.jsonl
+RCWA high_width_kernel solo_wp_n1_a5 k30x4_d4x20_a3_h4, modes 549
+Saved solo_wp_n1_a5 k30x4_d4x20_a3_h4 in 165.5 s
+high_width_kernel: complete, 0 cases unavailable
+high_width_kernel: next 3 cases, queue log high_width_kernel_27392.jsonl
+RCWA high_width_kernel solo_wp_n2_a5 k30x2_d4x20_a3_h4, modes 305
+Saved solo_wp_n2_a5 k30x2_d4x20_a3_h4 in 30.8 s
+RCWA high_width_kernel solo_wp_n3_a5 k30x1_d4x20_a3_h4, modes 183
+Saved solo_wp_n3_a5 k30x1_d4x20_a3_h4 in 8.8 s
+RCWA high_width_kernel solo_wp_n4_a5 k30x1_d4x20_a3_h4, modes 183
+Saved solo_wp_n4_a5 k30x1_d4x20_a3_h4 in 7.7 s
+high_width_kernel: complete, 0 cases unavailable
+high_width_kernel: next 1 cases, queue log high_width_kernel_27392.jsonl
+RCWA high_width_kernel solo_wm_n1_a5 k60x4_d4x20_a3_h4, modes 1089
+Saved solo_wm_n1_a5 k60x4_d4x20_a3_h4 in 1221.5 s
+high_width_kernel: complete, 0 cases unavailable
+high_width_kernel: next 1 cases, queue log high_width_kernel_27392.jsonl
+RCWA high_width_kernel solo_wm_n2_a5 k60x2_d4x20_a3_h4, modes 605
+Saved solo_wm_n2_a5 k60x2_d4x20_a3_h4 in 214.0 s
+high_width_kernel: complete, 0 cases unavailable
+high_width_kernel: next 2 cases, queue log high_width_kernel_27392.jsonl
+RCWA high_width_kernel solo_wm_n3_a5 k60x1_d4x20_a3_h4, modes 363
+Saved solo_wm_n3_a5 k60x1_d4x20_a3_h4 in 50.2 s
+RCWA high_width_kernel solo_wm_n4_a5 k60x1_d4x20_a3_h4, modes 363
+Saved solo_wm_n4_a5 k60x1_d4x20_a3_h4 in 48.8 s
+high_width_kernel: complete, 0 cases unavailable
+High-basis dominant width diagnosis: 2

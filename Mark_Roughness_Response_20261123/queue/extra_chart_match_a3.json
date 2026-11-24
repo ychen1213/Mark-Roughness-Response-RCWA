@@ -1,0 +1,65 @@
+[
+  {
+    "case": "chart_library_reference",
+    "folder": "runs\\chart_library_reference\\k5x1_d4x5_a3_h4",
+    "hash": "7b39d676f18e993867e4ef8fffb9ff321d6210da48c860d73319918bf3a67af6",
+    "group": "chart_library_reference",
+    "settings": "k5x1_d4x5_a3_h4"
+  },
+  {
+    "case": "chart_s1427",
+    "folder": "runs\\chart_s1427\\k5x8_d4x5_a3_h4",
+    "hash": "4bbfb4a1bae90bcb5830a30db9e993780eac9d22a611496e33fa69fbec2079af",
+    "group": "chart_library_check",
+    "settings": "k5x8_d4x5_a3_h4"
+  },
+  {
+    "case": "chart_s1427_cut0.5",
+    "folder": "runs\\chart_s1427_cut0.5\\k5x8_d4x5_a3_h4",
+    "hash": "89f16591abdd148ad309940d6095f3ac6da5d1336a44e8d5b44dfb0f350b5223",
+    "group": "chart_library_check",
+    "settings": "k5x8_d4x5_a3_h4"
+  },
+  {
+    "case": "chart_s1427_cut1",
+    "folder": "runs\\chart_s1427_cut1\\k5x8_d4x5_a3_h4",
+    "hash": "34a17dec053f5c2a7d492344e486e6bfe5a44d6dee52e663693c042b4e68b695",
+    "group": "chart_library_check",
+    "settings": "k5x8_d4x5_a3_h4"
+  },
+  {
+    "case": "chart_s1427_cut2",
+    "folder": "runs\\chart_s1427_cut2\\k5x8_d4x5_a3_h4",
+    "hash": "5e4de7557f13cdd8a9c2de21c4270dea69de676b6e4bbba113bfc31b9550e00b",
+    "group": "chart_library_check",
+    "settings": "k5x8_d4x5_a3_h4"
+  },
+  {
+    "case": "chart_actual_shift_-100",
+    "folder": "runs\\chart_actual_shift_-100\\k5x8_d4x5_a3_h4",
+    "hash": "d1928a73c2b58e9ed72aec6d7f85a8e5ac89525b5443ea4b7eda720f8d2e8e4d",
+    "group": "known_translation_geometry",
+    "settings": "k5x8_d4x5_a3_h4"
+  },
+  {
+    "case": "chart_actual_shift_+100",
+    "folder": "runs\\chart_actual_shift_+100\\k5x8_d4x5_a3_h4",
+    "hash": "b6be46688944019acb0f5e7641d0118b6a20f5f640abf99d5d48419022e41363",
+    "group": "known_translation_geometry",
+    "settings": "k5x8_d4x5_a3_h4"
+  },
+  {
+    "case": "direct_corner_cw4_-1_+1",
+    "folder": "runs\\direct_corner_cw4_-1_+1\\k10x3_d4x20_a3_h4",
+    "hash": "915c3eb6eec1e83641be088910dfb61d9424561f0773aecc6e2c6767aafbba21",
+    "group": "native_corner_control",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "direct_corner_cw4_-1_-1",
+    "folder": "runs\\direct_corner_cw4_-1_-1\\k10x3_d4x20_a3_h4",
+    "hash": "6ec9b91efb88a82340ebd813ecaacd59fa0d1c619b46125715b5a53f3a6f9e38",
+    "group": "native_corner_control",
+    "settings": "k10x3_d4x20_a3_h4"
+  }
+]

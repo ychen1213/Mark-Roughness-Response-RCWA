@@ -1,0 +1,4 @@
+Worker 12864 .\additional.py height_blind_context --threads 4
+Worker exit code 0
+Worker 35100 .\contexts.py --partial
+Worker exit code 0

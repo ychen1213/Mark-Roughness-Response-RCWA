@@ -1,0 +1,1 @@
+Worker 3956 .\design.py bands --start 0 --limit 12 --threads 4

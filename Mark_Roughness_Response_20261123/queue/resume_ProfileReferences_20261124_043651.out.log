@@ -1,0 +1,4 @@
+Worker 27804 .\additional.py profile_refs --threads 3
+Native child exited for worker 27804. Resuming its uncommitted cases.
+Worker 27396 .\additional.py profile_refs --threads 3
+Worker exit code 0

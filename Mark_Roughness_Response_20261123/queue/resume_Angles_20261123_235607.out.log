@@ -1,0 +1,4 @@
+Worker 36576 .\rcwa_runner.py chart --ku 10 --kv 12 --du 2 --dv 5 --angles 5 --cutoff 0.1 --with-reference --threads 4
+Worker exit code 0
+Worker 7780 .\rcwa_runner.py chart --ku 10 --kv 12 --du 2 --dv 5 --angles 5 --cutoff 0.5 --with-reference --threads 4
+Worker exit code 0

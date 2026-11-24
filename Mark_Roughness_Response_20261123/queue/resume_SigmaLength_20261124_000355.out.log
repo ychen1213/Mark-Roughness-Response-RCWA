@@ -1,0 +1,2 @@
+Worker 27520 .\additional.py sigma_length_refinement --threads 4
+Worker exit code 0

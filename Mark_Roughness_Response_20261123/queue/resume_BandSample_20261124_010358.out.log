@@ -1,0 +1,4 @@
+Worker 13556 .\design.py bands --start 0 --limit 12 --threads 4
+Worker exit code 0
+Worker 27232 .\design.py bands --start 24 --limit 12 --threads 4
+Worker exit code 0

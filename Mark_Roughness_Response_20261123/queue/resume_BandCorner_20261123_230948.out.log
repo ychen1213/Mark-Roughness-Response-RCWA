@@ -1,0 +1,2 @@
+Worker 41576 .\design.py factors --start 27 --limit 1 --threads 3
+Worker exit code 0

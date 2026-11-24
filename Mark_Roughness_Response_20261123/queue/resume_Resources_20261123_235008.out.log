@@ -1,0 +1,32 @@
+Retrying deferred native case profile_cd_nm_1_r20_s1427 k20x8_d4x20_a3_h4
+Waiting for a study RCWA worker slot
+ram_retry: next 1 cases, queue log ram_retry_43440.jsonl
+RCWA profile_refinement profile_cd_nm_1_r20_s1427 k20x8_d4x20_a3_h4, modes 697
+Saved profile_cd_nm_1_r20_s1427 k20x8_d4x20_a3_h4 in 262.8 s
+ram_retry: complete, 0 cases unavailable
+Retrying deferred native case solo_wm_n160_a5 k20x1_d2x3.125_a3_h4
+Waiting for a study RCWA worker slot
+ram_retry: next 1 cases, queue log ram_retry_43440.jsonl
+RCWA mode_bank solo_wm_n160_a5 k20x1_d2x3.125_a3_h4, modes 123
+Saved solo_wm_n160_a5 k20x1_d2x3.125_a3_h4 in 5.7 s
+ram_retry: complete, 0 cases unavailable
+Retrying deferred native case profile_footing_nm_1_r5_s2441 k10x8_d4x20_a3_h4
+Waiting for a study RCWA worker slot
+ram_retry: next 1 cases, queue log ram_retry_43440.jsonl
+RCWA profile_cross profile_footing_nm_1_r5_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved profile_footing_nm_1_r5_s2441 k10x8_d4x20_a3_h4 in 127.8 s
+ram_retry: complete, 0 cases unavailable
+Retrying deferred native case profile_footing_nm_1_r20_s1427 k10x8_d4x20_a3_h4
+Waiting for a study RCWA worker slot
+ram_retry: next 1 cases, queue log ram_retry_43440.jsonl
+RCWA profile_cross profile_footing_nm_1_r20_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved profile_footing_nm_1_r20_s1427 k10x8_d4x20_a3_h4 in 130.7 s
+ram_retry: complete, 0 cases unavailable
+Retrying deferred native case profile_footing_nm_1_r20_s2441 k10x8_d4x20_a3_h4
+Waiting for a study RCWA worker slot
+ram_retry: next 1 cases, queue log ram_retry_43440.jsonl
+Resource limit profile_footing_nm_1_r20_s2441 k10x8_d4x20_a3_h4: 1.92 GiB estimated, 0.64 GiB free
+ram_retry: complete, 1 cases unavailable
+Retrying deferred native case band_1_s3547_b0.1 k10x8_d4x3.125_a3_h4
+ram_retry: next 1 cases, queue log ram_retry_43440.jsonl
+RCWA nested_band_screen band_1_s3547_b0.1 k10x8_d4x3.125_a3_h4, modes 357

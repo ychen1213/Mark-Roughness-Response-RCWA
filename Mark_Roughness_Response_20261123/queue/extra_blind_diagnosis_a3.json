@@ -1,0 +1,79 @@
+[
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k20x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "blind_resolution_reference",
+    "settings": "k20x1_d4x20_a3_h4"
+  },
+  {
+    "case": "blind_new_combo_05_s9221",
+    "folder": "runs\\blind_new_combo_05_s9221\\k20x4_d4x20_a3_h4",
+    "hash": "63277af64af80f0d6212bd95329192406bb2a9d9245d9667c3161a09491c2650",
+    "group": "blind_resolution_diagnosis",
+    "settings": "k20x4_d4x20_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k10x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "blind_resolution_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "blind_new_combo_05_s9221",
+    "folder": "runs\\blind_new_combo_05_s9221\\k10x8_d4x20_a3_h4",
+    "hash": "63277af64af80f0d6212bd95329192406bb2a9d9245d9667c3161a09491c2650",
+    "group": "blind_resolution_diagnosis",
+    "settings": "k10x8_d4x20_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k10x1_d2x10_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "blind_resolution_reference",
+    "settings": "k10x1_d2x10_a3_h4"
+  },
+  {
+    "case": "blind_new_combo_05_s9221",
+    "folder": "runs\\blind_new_combo_05_s9221\\k10x4_d2x10_a3_h4",
+    "hash": "63277af64af80f0d6212bd95329192406bb2a9d9245d9667c3161a09491c2650",
+    "group": "blind_resolution_diagnosis",
+    "settings": "k10x4_d2x10_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k30x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "blind_resolution_reference",
+    "settings": "k30x1_d4x20_a3_h4"
+  },
+  {
+    "case": "blind_new_combo_05_s9221",
+    "folder": "runs\\blind_new_combo_05_s9221\\k30x4_d4x20_a3_h4",
+    "hash": "63277af64af80f0d6212bd95329192406bb2a9d9245d9667c3161a09491c2650",
+    "group": "blind_resolution_diagnosis",
+    "settings": "k30x4_d4x20_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k10x1_d4x20_a5_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "blind_resolution_reference",
+    "settings": "k10x1_d4x20_a5_h4"
+  },
+  {
+    "case": "blind_new_combo_05_s9221",
+    "folder": "runs\\blind_new_combo_05_s9221\\k10x4_d4x20_a5_h4",
+    "hash": "63277af64af80f0d6212bd95329192406bb2a9d9245d9667c3161a09491c2650",
+    "group": "blind_resolution_diagnosis",
+    "settings": "k10x4_d4x20_a5_h4"
+  },
+  {
+    "case": "blind_new_combo_05_s9221",
+    "folder": "runs\\blind_new_combo_05_s9221\\k20x8_d4x20_a3_h4",
+    "hash": "63277af64af80f0d6212bd95329192406bb2a9d9245d9667c3161a09491c2650",
+    "group": "blind_resolution_diagnosis",
+    "settings": "k20x8_d4x20_a3_h4"
+  }
+]

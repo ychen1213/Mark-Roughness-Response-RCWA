@@ -1,0 +1,216 @@
+<div id="roughness-edge-modes">
+  <div class="viz-controls">
+    <label class="form-label" for="roughness-edge-rho">
+      左右边相关 ρ <output class="tabular-nums" for="roughness-edge-rho" data-value="rho">+0.50</output>
+      <input class="form-range" id="roughness-edge-rho" type="range" min="-1" max="1" step="0.05" value="0.5">
+    </label>
+    <label class="form-label" for="roughness-edge-xi">
+      模型相关长度 ξ <output class="tabular-nums" for="roughness-edge-xi" data-value="xi">0.20 μm</output>
+      <input class="form-range" id="roughness-edge-xi" type="range" min="0.05" max="0.80" step="0.01" value="0.20">
+    </label>
+  </div>
+  <div class="viz-row">
+    <button class="btn" data-action="sample" type="button">换一个随机样本</button>
+    <span class="text-small">合成轮廓 · 每边带内目标 RMS 5 nm</span>
+  </div>
+  <div class="roughness-panel">
+    <div class="roughness-labels">
+      <span>边缘偏移（nm）</span>
+      <span class="roughness-key roughness-left">左缘</span>
+      <span class="roughness-key roughness-right roughness-dashed">右缘</span>
+    </div>
+    <svg class="roughness-chart" height="128" data-plot="edges" role="img" aria-label="左右边缘相对于各自基准的横向偏移"></svg>
+  </div>
+  <div class="roughness-panel">
+    <div class="roughness-labels">
+      <span>中心和线宽变化（nm）</span>
+      <span class="roughness-key roughness-center">中心</span>
+      <span class="roughness-key roughness-width roughness-dashed">线宽</span>
+    </div>
+    <svg class="roughness-chart" height="158" data-plot="derived" role="img" aria-label="沿条纹的中心偏移与全线宽变化"></svg>
+  </div>
+  <p class="text-small tabular-nums" data-readout aria-live="polite"></p>
+</div>
+<style>
+  #roughness-edge-modes {
+    display: grid;
+    gap: calc(var(--font-size-base, 14px) * .6);
+    color: var(--foreground);
+  }
+  #roughness-edge-modes .roughness-labels {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    column-gap: calc(var(--font-size-base, 14px) * .8);
+    row-gap: calc(var(--font-size-base, 14px) * .2);
+  }
+  #roughness-edge-modes .roughness-key {
+    display: inline-flex;
+    align-items: center;
+    gap: .35em;
+  }
+  #roughness-edge-modes .roughness-key::before {
+    content: "";
+    width: 1.15em;
+    border-top: 2px solid var(--roughness-ink);
+  }
+  #roughness-edge-modes .roughness-dashed::before { border-top-style: dashed; }
+  #roughness-edge-modes .roughness-left { --roughness-ink: var(--viz-series-1, var(--blue)); }
+  #roughness-edge-modes .roughness-right { --roughness-ink: var(--viz-series-2, var(--orange)); }
+  #roughness-edge-modes .roughness-center { --roughness-ink: var(--viz-series-3, var(--green)); }
+  #roughness-edge-modes .roughness-width { --roughness-ink: var(--viz-series-4, var(--purple)); }
+  #roughness-edge-modes .roughness-chart { display: block; width: 100%; }
+  #roughness-edge-modes .roughness-chart text { fill: var(--muted-foreground); }
+  #roughness-edge-modes .roughness-grid { stroke: var(--border); stroke-width: 1; }
+  #roughness-edge-modes .roughness-zero { stroke: var(--muted-foreground); stroke-opacity: .45; }
+  #roughness-edge-modes .roughness-trace { fill: none; stroke: var(--roughness-ink); stroke-width: 1.65; }
+  #roughness-edge-modes .roughness-trace.roughness-dashed { stroke-dasharray: 5 3; }
+</style>
+<script>
+(() => {
+  const root = document.getElementById("roughness-edge-modes");
+  const rhoInput = root.querySelector("#roughness-edge-rho");
+  const xiInput = root.querySelector("#roughness-edge-xi");
+  const rhoValue = root.querySelector('[data-value="rho"]');
+  const xiValue = root.querySelector('[data-value="xi"]');
+  const sampleButton = root.querySelector('[data-action="sample"]');
+  const edgePlot = root.querySelector('[data-plot="edges"]');
+  const derivedPlot = root.querySelector('[data-plot="derived"]');
+  const readout = root.querySelector("[data-readout]");
+  const length = 8;
+  const intervals = 480;
+  const positiveModes = 80;
+  const targetRms = 5;
+  let seed = 1427;
+  let basis;
+  let curves;
+
+  function normalGenerator(initialSeed) {
+    let state = initialSeed >>> 0;
+    function uniform() {
+      state = (Math.imul(1664525, state) + 1013904223) >>> 0;
+      return (state + 0.5) / 4294967296;
+    }
+    return () => {
+      const radius = Math.sqrt(-2 * Math.log(uniform()));
+      const phase = 2 * Math.PI * uniform();
+      return [radius * Math.cos(phase), radius * Math.sin(phase)];
+    };
+  }
+
+  function makeBasis(xi, realizationSeed) {
+    const gaussianPair = normalGenerator(realizationSeed);
+    const modes = Array.from({ length: positiveModes }, (_, index) => {
+      const n = index + 1;
+      const q = 2 * Math.PI * n / length;
+      return { n, weight: 1 / (1 + (q * xi) ** 2), common: gaussianPair(), width: gaussianPair() };
+    });
+    const normalization = targetRms / Math.sqrt(modes.reduce((total, mode) => total + mode.weight, 0));
+    const points = Array.from({ length: intervals + 1 }, () => [0, 0]);
+    for (const mode of modes) {
+      const scale = normalization * Math.sqrt(mode.weight);
+      for (let i = 0; i < intervals; i += 1) {
+        const phase = 2 * Math.PI * mode.n * i / intervals;
+        const cosine = Math.cos(phase);
+        const sine = Math.sin(phase);
+        points[i][0] += scale * (mode.common[0] * cosine + mode.common[1] * sine);
+        points[i][1] += scale * (mode.width[0] * cosine + mode.width[1] * sine);
+      }
+    }
+    points[intervals] = points[0];
+    return { points, xi, seed: realizationSeed };
+  }
+
+  function evaluate() {
+    const rho = Number(rhoInput.value);
+    const xi = Number(xiInput.value);
+    if (!basis || basis.xi !== xi || basis.seed !== seed) basis = makeBasis(xi, seed);
+    const commonScale = Math.sqrt((1 + rho) / 2);
+    const differentialScale = Math.sqrt((1 - rho) / 2);
+    const points = basis.points.map(([common, differential]) => {
+      const center = commonScale * common;
+      const halfWidth = differentialScale * differential;
+      return { left: center - halfWidth, right: center + halfWidth, center, width: 2 * halfWidth };
+    });
+    return { points, rho, xi };
+  }
+
+  function chart(svg, points, yLimit, keys, bottomLabels) {
+    const width = Math.max(220, svg.clientWidth || root.clientWidth || 320);
+    const x = fraction => 35 + (width - 49) * fraction;
+    const y = value => 9 + 106 * (yLimit - value) / (2 * yLimit);
+    const ticks = width < 460 ? [0, 2, 4, 6, 8] : [0, 1, 2, 3, 4, 5, 6, 7, 8];
+    const horizontal = [-yLimit, 0, yLimit].map(value => {
+      const yy = y(value);
+      const label = value < 0 ? "−" + (-value) : value;
+      return '<line class="roughness-grid' + (value === 0 ? ' roughness-zero' : '') +
+        '" x1="35" x2="' + x(1) + '" y1="' + yy + '" y2="' + yy + '"/>' +
+        '<text class="text-small" x="29" y="' + (yy + 4) + '" text-anchor="end">' + label + '</text>';
+    }).join("");
+    const vertical = ticks.map(v => {
+      const xx = x(v / length);
+      return '<line class="roughness-grid" x1="' + xx + '" x2="' + xx + '" y1="9" y2="115"/>' +
+        (bottomLabels ? '<text class="text-small" y="132" x="' + xx + '" text-anchor="middle">' + v + '</text>' : '');
+    }).join("");
+    const traces = keys.map((key, index) => {
+      const commands = points.map((point, i) => (i === 0 ? "M" : "L") +
+        x(i / intervals).toFixed(2) + " " + y(point[key]).toFixed(2)).join(" ");
+      return '<path fill="none" class="roughness-trace roughness-' + key +
+        (index === 1 ? ' roughness-dashed' : '') + '" d="' + commands + '"/>';
+    }).join("");
+    const axisLabel = bottomLabels ? '<text class="text-small" x="' + x(.5) +
+      '" y="152" text-anchor="middle">沿条纹位置 v（μm）</text>' : "";
+    svg.innerHTML = horizontal + vertical + traces + axisLabel;
+  }
+
+  function draw(points) {
+    const peak = points.reduce((max, p) => Math.max(max,
+      Math.abs(p.left), Math.abs(p.right), Math.abs(p.center), Math.abs(p.width)), 0);
+    const yLimit = Math.max(20, Math.ceil(peak / 10) * 10);
+    chart(edgePlot, points, yLimit, ["left", "right"], false);
+    chart(derivedPlot, points, yLimit, ["center", "width"], true);
+  }
+
+  function update() {
+    curves = evaluate();
+    rhoValue.textContent = (curves.rho > 0 ? "+" : "") + curves.rho.toFixed(2);
+    xiValue.textContent = curves.xi.toFixed(2) + " μm";
+    const variance = curves.points.slice(0, intervals).reduce(([c, d], p) =>
+      [c + p.center ** 2, d + p.width ** 2], [0, 0]);
+    const rms = variance.map(value => Math.sqrt(value / intervals).toFixed(2));
+    readout.textContent = "样本 RMS · 中心 " + rms[0] + " nm · 线宽 " + rms[1] + " nm";
+    draw(curves.points);
+  }
+
+  function restore(snapshot) {
+    const values = snapshot?.privateContent;
+    if (Number.isFinite(values?.rho) && values.rho >= -1 && values.rho <= 1) rhoInput.value = values.rho;
+    if (Number.isFinite(values?.xi) && values.xi >= 0.05 && values.xi <= 0.8) xiInput.value = values.xi;
+    if (Number.isInteger(values?.seed) && values.seed >= 0 && values.seed <= 4294967295) seed = values.seed;
+    update();
+  }
+
+  function save() {
+    if (typeof window.openai?.setWidgetState === "function") {
+      const values = { rho: curves.rho, xi: curves.xi, seed };
+      window.openai.setWidgetState({ modelContent: values, privateContent: values }).catch(() => {});
+    }
+  }
+
+  rhoInput.addEventListener("input", update);
+  xiInput.addEventListener("input", update);
+  rhoInput.addEventListener("change", save);
+  xiInput.addEventListener("change", save);
+  sampleButton.addEventListener("click", () => {
+    seed = (seed + 2654435761) >>> 0;
+    update();
+    save();
+  });
+  window.addEventListener("openai:set_globals", event => {
+    const snapshot = event.detail?.globals?.widgetState;
+    if (snapshot) restore(snapshot);
+  });
+  restore(window.openai?.widgetState);
+  new ResizeObserver(() => draw(curves.points)).observe(root);
+})();
+</script>

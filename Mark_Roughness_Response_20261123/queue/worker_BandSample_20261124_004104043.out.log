@@ -1,0 +1,6 @@
+bands: next 8 cases, queue log bands_40424.jsonl
+RCWA nested_band_screen band_0_s2441_b1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s2441_b1 k10x8_d4x3.125_a3_h4 in 110.7 s
+RCWA nested_band_screen band_0_s2441_b2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s2441_b2 k10x8_d4x3.125_a3_h4 in 122.7 s
+RCWA nested_band_screen band_1_s2441_b0.05 k10x8_d4x3.125_a3_h4, modes 357

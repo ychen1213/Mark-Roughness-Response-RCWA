@@ -1,0 +1,2 @@
+Worker 44528 .\third_factor.py --threads 4
+Worker exit code 0

@@ -1,0 +1,2 @@
+{"case": "chart_s1427", "setting": "k10x12_d2x5_a5_h4", "group": "original_curve", "folder": "runs\\chart_s1427\\k10x12_d2x5_a5_h4", "result": "cached", "seconds": 483.9852754000167, "time": "2026-11-23T23:28:06.453919+08:00"}
+{"case": "smooth_l8_u1", "setting": "k10x1_d2x5_a5_h4", "group": "smooth_reference", "folder": "runs\\smooth_l8_u1\\k10x1_d2x5_a5_h4", "result": "cached", "seconds": 90.66971869999543, "time": "2026-11-23T23:28:06.455141+08:00"}

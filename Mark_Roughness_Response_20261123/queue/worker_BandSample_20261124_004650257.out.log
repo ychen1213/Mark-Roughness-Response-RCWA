@@ -1,0 +1,10 @@
+bands: next 8 cases, queue log bands_43464.jsonl
+RCWA nested_band_screen band_1_s2441_b0.05 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s2441_b0.05 k10x8_d4x3.125_a3_h4 in 117.3 s
+RCWA nested_band_screen band_1_s2441_b0.1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s2441_b0.1 k10x8_d4x3.125_a3_h4 in 116.1 s
+bands: complete, 0 cases unavailable
+bands: next 4 cases, queue log bands_43464.jsonl
+RCWA nested_band_screen band_1_s2441_b0.2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s2441_b0.2 k10x8_d4x3.125_a3_h4 in 119.2 s
+RCWA nested_band_screen band_1_s2441_b0.5 k10x8_d4x3.125_a3_h4, modes 357

@@ -1,0 +1,34 @@
+Waiting for a study RCWA worker slot
+profiles: 50 cases, queue log profiles_3636.jsonl
+RCWA profile_cross profile_swa_deg_1_r20_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved profile_swa_deg_1_r20_s1427 k10x8_d4x20_a3_h4 in 142.7 s
+RCWA profile_cross profile_swa_deg_1_r20_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved profile_swa_deg_1_r20_s2441 k10x8_d4x20_a3_h4 in 142.7 s
+RCWA profile_axis profile_shear_nm_0_smooth k20x1_d4x20_a3_h4, modes 123
+Saved profile_shear_nm_0_smooth k20x1_d4x20_a3_h4 in 32.9 s
+RCWA profile_cross profile_shear_nm_0_r5_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved profile_shear_nm_0_r5_s1427 k10x8_d4x20_a3_h4 in 143.6 s
+RCWA profile_cross profile_shear_nm_0_r5_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved profile_shear_nm_0_r5_s2441 k10x8_d4x20_a3_h4 in 149.4 s
+RCWA profile_cross profile_shear_nm_0_r20_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved profile_shear_nm_0_r20_s1427 k10x8_d4x20_a3_h4 in 152.2 s
+RCWA profile_cross profile_shear_nm_0_r20_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved profile_shear_nm_0_r20_s2441 k10x8_d4x20_a3_h4 in 134.7 s
+RCWA profile_axis profile_shear_nm_1_smooth k20x1_d4x20_a3_h4, modes 123
+Saved profile_shear_nm_1_smooth k20x1_d4x20_a3_h4 in 38.5 s
+RCWA profile_cross profile_shear_nm_1_r5_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved profile_shear_nm_1_r5_s1427 k10x8_d4x20_a3_h4 in 135.9 s
+RCWA profile_cross profile_shear_nm_1_r5_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved profile_shear_nm_1_r5_s2441 k10x8_d4x20_a3_h4 in 138.8 s
+RCWA profile_cross profile_shear_nm_1_r20_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved profile_shear_nm_1_r20_s1427 k10x8_d4x20_a3_h4 in 150.7 s
+RCWA profile_cross profile_shear_nm_1_r20_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved profile_shear_nm_1_r20_s2441 k10x8_d4x20_a3_h4 in 142.4 s
+RCWA profile_axis profile_footing_nm_1_smooth k20x1_d4x20_a3_h4, modes 123
+Saved profile_footing_nm_1_smooth k20x1_d4x20_a3_h4 in 42.9 s
+RCWA profile_cross profile_footing_nm_1_r5_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved profile_footing_nm_1_r5_s1427 k10x8_d4x20_a3_h4 in 178.9 s
+Resource limit profile_footing_nm_1_r5_s2441 k10x8_d4x20_a3_h4: 1.92 GiB estimated, 2.54 GiB free
+Resource limit profile_footing_nm_1_r20_s1427 k10x8_d4x20_a3_h4: 1.92 GiB estimated, 2.46 GiB free
+Resource limit profile_footing_nm_1_r20_s2441 k10x8_d4x20_a3_h4: 1.92 GiB estimated, 2.46 GiB free
+profiles: complete, 3 cases unavailable

@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "E:\Mark_Roughness_Response_20261123\additional.py", line 158, in <module>
+    main()
+    ~~~~^^
+  File "E:\Mark_Roughness_Response_20261123\additional.py", line 146, in main
+    f={"chart_match":matched_chart,"height":height_kernels,"profile_modes":conditional_profiles,
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       "strict_pairs":strict_pairs,"strict_bands":strict_factors,"blind_diagnosis":blind_diagnosis,
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       "interaction_refinement":interaction_refinement,"fine_blind":fine_blind}[args.lane]
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'blind_x_continuation'

@@ -1,0 +1,22 @@
+Waiting for a study RCWA worker slot
+profile_refs: next 5 cases, queue log profile_refs_27804.jsonl
+RCWA profile_reference pbase_height_nm_0_u2 k10x1_d4x20_a3_h4, modes 63
+Saved pbase_height_nm_0_u2 k10x1_d4x20_a3_h4 in 13.0 s
+RCWA profile_reference pbase_height_nm_1_u2 k10x1_d4x20_a3_h4, modes 63
+Saved pbase_height_nm_1_u2 k10x1_d4x20_a3_h4 in 14.9 s
+profile_refs: complete, 0 cases unavailable
+profile_refs: next 1 cases, queue log profile_refs_27804.jsonl
+RCWA profile_reference pbase_swa_deg_1_u2 k10x1_d4x20_a3_h4, modes 63
+Saved pbase_swa_deg_1_u2 k10x1_d4x20_a3_h4 in 34.0 s
+profile_refs: complete, 0 cases unavailable
+profile_refs: next 1 cases, queue log profile_refs_27804.jsonl
+RCWA profile_reference pbase_shear_nm_0_u2 k10x1_d4x20_a3_h4, modes 63
+Saved pbase_shear_nm_0_u2 k10x1_d4x20_a3_h4 in 41.9 s
+profile_refs: complete, 0 cases unavailable
+profile_refs: next 1 cases, queue log profile_refs_27804.jsonl
+RCWA profile_reference pbase_shear_nm_1_u2 k10x1_d4x20_a3_h4, modes 63
+Saved pbase_shear_nm_1_u2 k10x1_d4x20_a3_h4 in 35.5 s
+profile_refs: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+profile_refs: next 1 cases, queue log profile_refs_27804.jsonl
+profile_refs: complete, 0 cases unavailable

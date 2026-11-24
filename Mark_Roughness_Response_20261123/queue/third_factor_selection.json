@@ -1,0 +1,17 @@
+[
+  [
+    "sigma_nm",
+    "rho_lr",
+    "xi_um"
+  ],
+  [
+    "sigma_nm",
+    "xi_um",
+    "cutoff"
+  ],
+  [
+    "cd_nm",
+    "sigma_nm",
+    "rho_lr"
+  ]
+]

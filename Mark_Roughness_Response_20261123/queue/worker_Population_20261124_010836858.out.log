@@ -1,0 +1,243 @@
+Waiting for a study RCWA worker slot
+factors: next 8 cases, queue log factors_41504.jsonl
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_xi_um_hurst_01_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_01_s1427 k10x8_d4x20_a3_h4 in 39.3 s
+RCWA stat_factor_cross factor_xi_um_hurst_11_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_11_s1427 k10x8_d4x20_a3_h4 in 44.2 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_rho_lr_rho_line_00_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_line_00_s1427 k10x8_d4x20_a3_h4 in 41.1 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_10_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_line_10_s1427 k10x8_d4x20_a3_h4 in 43.9 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_01_s1427 k10x8_d4x20_a3_h4, modes 187
+Saved factor_rho_lr_rho_line_01_s1427 k10x8_d4x20_a3_h4 in 9.6 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_11_s1427 k10x8_d4x20_a3_h4, modes 187
+Saved factor_rho_lr_rho_line_11_s1427 k10x8_d4x20_a3_h4 in 9.7 s
+RCWA stat_factor_cross factor_rho_lr_rho_height_00_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_height_00_s1427 k10x8_d4x20_a3_h4 in 112.3 s
+RCWA stat_factor_cross factor_rho_lr_rho_height_10_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_height_10_s1427 k10x8_d4x20_a3_h4 in 110.2 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_cutoff_hurst_00_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_00_s1427 k10x8_d4x20_a3_h4 in 40.6 s
+RCWA stat_factor_cross factor_cutoff_hurst_10_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_10_s1427 k10x8_d4x20_a3_h4 in 43.0 s
+RCWA stat_factor_cross factor_cutoff_hurst_01_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_01_s1427 k10x8_d4x20_a3_h4 in 42.2 s
+RCWA stat_factor_cross factor_cutoff_hurst_11_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_11_s1427 k10x8_d4x20_a3_h4 in 43.6 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_sigma_nm_rho_height_00_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_height_00_s1427 k10x8_d4x20_a3_h4 in 106.3 s
+RCWA stat_factor_cross factor_sigma_nm_rho_height_10_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_height_10_s1427 k10x8_d4x20_a3_h4 in 102.1 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_00_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_00_s2441 k10x8_d4x20_a3_h4 in 40.7 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_10_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_10_s2441 k10x8_d4x20_a3_h4 in 43.0 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_01_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_01_s2441 k10x8_d4x20_a3_h4 in 44.5 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_11_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_11_s2441 k10x8_d4x20_a3_h4 in 45.3 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_sigma_nm_hurst_00_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_00_s2441 k10x8_d4x20_a3_h4 in 43.9 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_01_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_01_s2441 k10x8_d4x20_a3_h4 in 40.2 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_11_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_11_s2441 k10x8_d4x20_a3_h4 in 41.6 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_00_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_00_s2441 k10x8_d4x20_a3_h4 in 38.2 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_10_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_10_s2441 k10x8_d4x20_a3_h4 in 43.7 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_01_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_01_s2441 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_11_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_11_s2441 k10x8_d4x20_a3_h4 in 42.0 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_xi_um_hurst_00_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_00_s2441 k10x8_d4x20_a3_h4 in 46.0 s
+RCWA stat_factor_cross factor_xi_um_hurst_10_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_10_s2441 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_xi_um_hurst_01_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_01_s2441 k10x8_d4x20_a3_h4 in 41.8 s
+RCWA stat_factor_cross factor_xi_um_hurst_11_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_11_s2441 k10x8_d4x20_a3_h4 in 38.6 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_00_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_line_00_s2441 k10x8_d4x20_a3_h4 in 39.2 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_10_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_line_10_s2441 k10x8_d4x20_a3_h4 in 41.8 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_01_s2441 k10x8_d4x20_a3_h4, modes 187
+Saved factor_rho_lr_rho_line_01_s2441 k10x8_d4x20_a3_h4 in 9.8 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_11_s2441 k10x8_d4x20_a3_h4, modes 187
+Saved factor_rho_lr_rho_line_11_s2441 k10x8_d4x20_a3_h4 in 9.7 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_rho_lr_rho_height_00_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_height_00_s2441 k10x8_d4x20_a3_h4 in 106.3 s
+RCWA stat_factor_cross factor_rho_lr_rho_height_10_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_height_10_s2441 k10x8_d4x20_a3_h4 in 102.3 s
+RCWA stat_factor_cross factor_cutoff_xi_um_10_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_xi_um_10_s2441 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_cutoff_xi_um_11_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_xi_um_11_s2441 k10x8_d4x20_a3_h4 in 41.9 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_cutoff_hurst_00_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_00_s2441 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_cutoff_hurst_10_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_10_s2441 k10x8_d4x20_a3_h4 in 42.3 s
+RCWA stat_factor_cross factor_cutoff_hurst_01_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_01_s2441 k10x8_d4x20_a3_h4 in 43.3 s
+RCWA stat_factor_cross factor_cutoff_hurst_11_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_11_s2441 k10x8_d4x20_a3_h4 in 39.9 s
+RCWA stat_factor_cross factor_sigma_nm_rho_height_00_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_height_00_s2441 k10x8_d4x20_a3_h4 in 98.6 s
+RCWA stat_factor_cross factor_sigma_nm_rho_height_10_s2441 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_height_10_s2441 k10x8_d4x20_a3_h4 in 107.0 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_sigma_nm_xi_um_00_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_00_s3547 k10x8_d4x20_a3_h4 in 44.0 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_10_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_10_s3547 k10x8_d4x20_a3_h4 in 40.4 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_01_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_01_s3547 k10x8_d4x20_a3_h4 in 39.4 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_11_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_11_s3547 k10x8_d4x20_a3_h4 in 38.0 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_00_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_00_s3547 k10x8_d4x20_a3_h4 in 42.3 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_10_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_10_s3547 k10x8_d4x20_a3_h4 in 43.7 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_01_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_01_s3547 k10x8_d4x20_a3_h4 in 44.2 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_11_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_11_s3547 k10x8_d4x20_a3_h4 in 41.6 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_00_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_00_s3547 k10x8_d4x20_a3_h4 in 44.0 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_10_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_10_s3547 k10x8_d4x20_a3_h4 in 42.0 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_01_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_01_s3547 k10x8_d4x20_a3_h4 in 39.9 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_11_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_11_s3547 k10x8_d4x20_a3_h4 in 38.4 s
+RCWA stat_factor_cross factor_xi_um_hurst_00_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_00_s3547 k10x8_d4x20_a3_h4 in 43.3 s
+RCWA stat_factor_cross factor_xi_um_hurst_10_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_10_s3547 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_xi_um_hurst_01_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_01_s3547 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_xi_um_hurst_11_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_11_s3547 k10x8_d4x20_a3_h4 in 44.4 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_rho_lr_rho_line_00_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_line_00_s3547 k10x8_d4x20_a3_h4 in 40.8 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_10_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_line_10_s3547 k10x8_d4x20_a3_h4 in 39.1 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_01_s3547 k10x8_d4x20_a3_h4, modes 187
+Saved factor_rho_lr_rho_line_01_s3547 k10x8_d4x20_a3_h4 in 9.7 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_11_s3547 k10x8_d4x20_a3_h4, modes 187
+Saved factor_rho_lr_rho_line_11_s3547 k10x8_d4x20_a3_h4 in 9.5 s
+RCWA stat_factor_cross factor_rho_lr_rho_height_00_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_height_00_s3547 k10x8_d4x20_a3_h4 in 102.5 s
+RCWA stat_factor_cross factor_rho_lr_rho_height_10_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_height_10_s3547 k10x8_d4x20_a3_h4 in 112.4 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_cutoff_xi_um_10_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_xi_um_10_s3547 k10x8_d4x20_a3_h4 in 40.2 s
+RCWA stat_factor_cross factor_cutoff_xi_um_11_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_xi_um_11_s3547 k10x8_d4x20_a3_h4 in 39.8 s
+RCWA stat_factor_cross factor_cutoff_hurst_00_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_00_s3547 k10x8_d4x20_a3_h4 in 38.5 s
+RCWA stat_factor_cross factor_cutoff_hurst_10_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_10_s3547 k10x8_d4x20_a3_h4 in 41.3 s
+RCWA stat_factor_cross factor_cutoff_hurst_01_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_01_s3547 k10x8_d4x20_a3_h4 in 43.7 s
+RCWA stat_factor_cross factor_cutoff_hurst_11_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_11_s3547 k10x8_d4x20_a3_h4 in 43.9 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_sigma_nm_rho_height_00_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_height_00_s3547 k10x8_d4x20_a3_h4 in 104.9 s
+RCWA stat_factor_cross factor_sigma_nm_rho_height_10_s3547 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_height_10_s3547 k10x8_d4x20_a3_h4 in 100.4 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_00_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_00_s4639 k10x8_d4x20_a3_h4 in 43.6 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_10_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_10_s4639 k10x8_d4x20_a3_h4 in 44.1 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_01_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_01_s4639 k10x8_d4x20_a3_h4 in 43.7 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_11_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_11_s4639 k10x8_d4x20_a3_h4 in 41.9 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_sigma_nm_hurst_00_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_00_s4639 k10x8_d4x20_a3_h4 in 42.3 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_10_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_10_s4639 k10x8_d4x20_a3_h4 in 45.8 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_01_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_01_s4639 k10x8_d4x20_a3_h4 in 43.5 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_11_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_11_s4639 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_00_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_00_s4639 k10x8_d4x20_a3_h4 in 42.4 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_10_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_10_s4639 k10x8_d4x20_a3_h4 in 43.3 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_01_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_01_s4639 k10x8_d4x20_a3_h4 in 46.1 s
+RCWA stat_factor_cross factor_sigma_nm_rho_lr_11_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_lr_11_s4639 k10x8_d4x20_a3_h4 in 43.9 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_xi_um_hurst_00_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_00_s4639 k10x8_d4x20_a3_h4 in 42.0 s
+RCWA stat_factor_cross factor_xi_um_hurst_10_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_10_s4639 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_xi_um_hurst_01_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_01_s4639 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_xi_um_hurst_11_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_xi_um_hurst_11_s4639 k10x8_d4x20_a3_h4 in 41.8 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_00_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_line_00_s4639 k10x8_d4x20_a3_h4 in 41.8 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_10_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_line_10_s4639 k10x8_d4x20_a3_h4 in 41.9 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_01_s4639 k10x8_d4x20_a3_h4, modes 187
+Saved factor_rho_lr_rho_line_01_s4639 k10x8_d4x20_a3_h4 in 9.5 s
+RCWA stat_factor_cross factor_rho_lr_rho_line_11_s4639 k10x8_d4x20_a3_h4, modes 187
+Saved factor_rho_lr_rho_line_11_s4639 k10x8_d4x20_a3_h4 in 9.6 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_rho_lr_rho_height_00_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_height_00_s4639 k10x8_d4x20_a3_h4 in 104.2 s
+RCWA stat_factor_cross factor_rho_lr_rho_height_10_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_rho_lr_rho_height_10_s4639 k10x8_d4x20_a3_h4 in 100.5 s
+RCWA stat_factor_cross factor_cutoff_xi_um_10_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_xi_um_10_s4639 k10x8_d4x20_a3_h4 in 40.0 s
+RCWA stat_factor_cross factor_cutoff_xi_um_11_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_xi_um_11_s4639 k10x8_d4x20_a3_h4 in 40.1 s
+factors: complete, 0 cases unavailable
+factors: next 8 cases, queue log factors_41504.jsonl
+RCWA stat_factor_cross factor_cutoff_hurst_00_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_00_s4639 k10x8_d4x20_a3_h4 in 44.3 s
+RCWA stat_factor_cross factor_cutoff_hurst_10_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_10_s4639 k10x8_d4x20_a3_h4 in 47.4 s
+RCWA stat_factor_cross factor_cutoff_hurst_01_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_01_s4639 k10x8_d4x20_a3_h4 in 43.9 s
+RCWA stat_factor_cross factor_cutoff_hurst_11_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_cutoff_hurst_11_s4639 k10x8_d4x20_a3_h4 in 46.1 s
+RCWA stat_factor_cross factor_sigma_nm_rho_height_00_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_height_00_s4639 k10x8_d4x20_a3_h4 in 111.9 s
+RCWA stat_factor_cross factor_sigma_nm_rho_height_10_s4639 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_rho_height_10_s4639 k10x8_d4x20_a3_h4 in 107.6 s
+factors: complete, 0 cases unavailable

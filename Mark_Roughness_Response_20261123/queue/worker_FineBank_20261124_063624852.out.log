@@ -1,0 +1,19 @@
+pairs: next 8 cases, queue log pairs_23988.jsonl
+RCWA mode_cross cross_cp4_cm4_q0_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp4_cm4_q0_pp k20x3_d2x10_a3_h4 in 33.8 s
+RCWA mode_cross cross_cp4_cm4_q0_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp4_cm4_q0_pm k20x3_d2x10_a3_h4 in 36.2 s
+RCWA mode_cross cross_cp4_cm4_q1_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp4_cm4_q1_pp k20x3_d2x10_a3_h4 in 35.6 s
+RCWA mode_cross cross_cp4_cm4_q1_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp4_cm4_q1_pm k20x3_d2x10_a3_h4 in 34.1 s
+RCWA mode_cross cross_cp4_wp4_q0_pp k10x3_d2x10_a3_h4, modes 147
+Saved cross_cp4_wp4_q0_pp k10x3_d2x10_a3_h4 in 8.2 s
+RCWA mode_cross cross_cp4_wp4_q0_pm k10x3_d2x10_a3_h4, modes 147
+Saved cross_cp4_wp4_q0_pm k10x3_d2x10_a3_h4 in 9.6 s
+RCWA mode_cross cross_cp4_wp4_q1_pp k10x3_d2x10_a3_h4, modes 147
+Saved cross_cp4_wp4_q1_pp k10x3_d2x10_a3_h4 in 9.0 s
+RCWA mode_cross cross_cp4_wp4_q1_pm k10x3_d2x10_a3_h4, modes 147
+Saved cross_cp4_wp4_q1_pm k10x3_d2x10_a3_h4 in 8.2 s
+pairs: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot

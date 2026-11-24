@@ -1,0 +1,30 @@
+{
+  "local_time": "2026-11-23T23:29:05.415568+08:00",
+  "frozen_model_ready": true,
+  "primary_score_complete": true,
+  "single_modes": {
+    "complete": 66,
+    "planned": 66,
+    "examples_waiting": []
+  },
+  "mixed_modes": {
+    "complete": 120,
+    "planned": 120,
+    "examples_waiting": []
+  },
+  "joint_training": {
+    "complete": 64,
+    "planned": 64,
+    "examples_waiting": []
+  },
+  "eligible_for_nominal_calibration": {
+    "complete": 54,
+    "planned": 54,
+    "examples_waiting": []
+  },
+  "blind_reference": {
+    "complete": 16,
+    "planned": 16,
+    "examples_waiting": []
+  }
+}

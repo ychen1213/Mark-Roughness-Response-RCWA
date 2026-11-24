@@ -1,0 +1,20 @@
+Worker 3636 .\design.py profiles --threads 4
+Worker exit code 0
+Worker 16896 .\additional.py height --threads 4
+Native child exited for worker 16896. Resuming its uncommitted cases.
+Worker 43560 .\additional.py height --threads 4
+Native child exited for worker 43560. Resuming its uncommitted cases.
+Worker 8172 .\additional.py height --threads 4
+Native child exited for worker 8172. Resuming its uncommitted cases.
+The worker lost its native process on three launches. Completed results remain available.
+Worker 46632 .\contexts.py --partial
+Worker exit code 0
+Worker 39024 .\additional.py profile_modes --threads 4
+Native child exited for worker 39024. Resuming its uncommitted cases.
+Worker 31916 .\additional.py profile_modes --threads 4
+Native child exited for worker 31916. Resuming its uncommitted cases.
+Worker 23368 .\additional.py profile_modes --threads 4
+Native child exited for worker 23368. Resuming its uncommitted cases.
+The worker lost its native process on three launches. Completed results remain available.
+Worker 41944 .\contexts.py
+Worker exit code 0

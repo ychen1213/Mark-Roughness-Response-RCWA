@@ -1,0 +1,1 @@
+{"case":"chart_s1427","setting":"k20x24_d2x5_a1_h4","group":"chart_convergence","folder":"runs\\chart_s1427\\k20x24_d2x5_a1_h4","result":"resource_limit","error":"Deferred the owned high-harmonic replay after concurrent workers repeatedly exited under memory pressure. Layout retained.","time":"2026-11-23T23:50:08.1425209+08:00"}

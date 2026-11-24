@@ -1,0 +1,80 @@
+{
+  "chart_reconstruction": {
+    "points": 481,
+    "fourier_modes": 80,
+    "max_edge_error_nm": 1.4921397450962104e-13
+  },
+  "compact_smooth_relative_complex_error": 2.4837951334036455e-14,
+  "quadratic_readout_nrmse": [
+    2.6868644841760047e-16,
+    2.705993312540044e-16
+  ],
+  "coherent_disjoint_nrmse": [
+    4.1714212427297403e-16,
+    4.2044903156130964e-16
+  ],
+  "overlapping_empty_blocks_nrmse": [
+    7.519647887630121e-07,
+    4.623146418164509e-16
+  ],
+  "independent_native_phase_controls": [
+    {
+      "case": "control_cm_n4_minus",
+      "complex_relative": 4.175543840662178e-14
+    },
+    {
+      "case": "control_wp_n8_sine",
+      "complex_relative": 2.71784391800014e-14
+    },
+    {
+      "case": "control_cp_n1_minus",
+      "complex_relative": 2.0412290665038706e-18
+    },
+    {
+      "case": "control_wm_n16_sine",
+      "complex_relative": 2.7950970976779193e-14
+    }
+  ],
+  "repeated_roughness_cell": {
+    "complex_relative": 4.9205919441374e-14,
+    "scan_nrmse": [
+      1.2800241443513628e-14,
+      1.2789531209047251e-14
+    ],
+    "two_stripe_run": "runs\\train_03_s1427\\k10x4_d4x20_a3_h4",
+    "primitive_run": "runs\\one_cell_equivalence_train_03_s1427\\k10x4_d4x20_a3_h4"
+  },
+  "independent_native_sign_corners": [
+    {
+      "solved": "direct_corner_cw4_-1_-1",
+      "translated": "cross_cp4_wm4_q0_pp",
+      "complex_relative": 0.0
+    },
+    {
+      "solved": "direct_corner_cw4_-1_+1",
+      "translated": "cross_cp4_wm4_q0_pm",
+      "complex_relative": 0.0
+    }
+  ],
+  "rough_geometry_translation": [
+    {
+      "known_nm": -100,
+      "measured_nm": -100.07876083465824,
+      "roughness_APD_nm": -0.07876083465824024,
+      "relative_recovery_error_nm": -2.4299815569867045e-06
+    },
+    {
+      "known_nm": 100,
+      "measured_nm": 99.92124159532214,
+      "roughness_APD_nm": -0.07875840467785622,
+      "relative_recovery_error_nm": -1.1729645033042857e-12
+    }
+  ],
+  "holdout_isolation": {
+    "model_sha256": "890f5b4a6ce565e2ab5fc124e3302bb5aa2bb410f973b90002078fece9bd7347",
+    "kernel_inputs": 272,
+    "joint_training_inputs": 54,
+    "unique_heldout_geometries": 16,
+    "identical_fit_or_kernel_inputs": 0
+  }
+}

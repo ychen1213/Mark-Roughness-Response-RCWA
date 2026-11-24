@@ -1,0 +1,72 @@
+[
+  {
+    "case": "pbase_cd_nm_0_u2",
+    "folder": "runs\\pbase_cd_nm_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "d42c41a999231348c5dba5ce8d11f78b84557b6dae3219bbb911f7b3d87d6340",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_cd_nm_1_u2",
+    "folder": "runs\\pbase_cd_nm_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "87b0c628e0de9912805cd0ea1d1bbe834320e19975ecd18bbb0299f8ede4422d",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_height_nm_0_u2",
+    "folder": "runs\\pbase_height_nm_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "e075f0c9fcb438db794d2900da22f2d5b73243e73288e796c4d237ee6657f16d",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_height_nm_1_u2",
+    "folder": "runs\\pbase_height_nm_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "2afe4487b2827a9a29a70030fcc8b78a6a1b2a157474072a51bbfeb4a90e889a",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_swa_deg_0_u2",
+    "folder": "runs\\pbase_swa_deg_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_swa_deg_1_u2",
+    "folder": "runs\\pbase_swa_deg_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "88fa7649c41e8dca7c25b7c83950d203cc32ff8c694fb54f655c4819b7e6084f",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_shear_nm_0_u2",
+    "folder": "runs\\pbase_shear_nm_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "b5b211ec4850459047dd564eaa9132122ec859820110d82ef66ba3ef6a79dafd",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_shear_nm_1_u2",
+    "folder": "runs\\pbase_shear_nm_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "5fa3ebb4eb9dff10d770943a99ebc21f369fa7e523a2e3c56442fbb591b5b8b7",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_footing_nm_0_u2",
+    "folder": "runs\\pbase_footing_nm_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_footing_nm_1_u2",
+    "folder": "runs\\pbase_footing_nm_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "f0f6970bba35376a559d64daa10e7435a2bd7a8c0b18b71e0b6a283ebae3b4e0",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  }
+]

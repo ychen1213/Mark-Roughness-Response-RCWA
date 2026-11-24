@@ -1,0 +1,366 @@
+[
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k20x1_d4x3.125_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "random_band_refinement_ref",
+    "settings": "k20x1_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.05",
+    "folder": "runs\\qual_band_s1427_b0.05\\k20x8_d4x3.125_a3_h4",
+    "hash": "bfdfb52dd730024b5fc21854827df726d9877d34b797a5086fadb59c0c4a2110",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.5",
+    "folder": "runs\\qual_band_s1427_b0.5\\k20x8_d4x3.125_a3_h4",
+    "hash": "439480812fb37eefce7f2948df23f7582747a0140ca74a17f2a9806f7db105bd",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b1",
+    "folder": "runs\\qual_band_s1427_b1\\k20x8_d4x3.125_a3_h4",
+    "hash": "9e8e20e1217e800df11de23304d7ba48a02043445c1f7cfa1342c4d0ee5a2e9e",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k10x1_d4x3.125_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "random_band_refinement_ref",
+    "settings": "k10x1_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.05",
+    "folder": "runs\\qual_band_s1427_b0.05\\k10x16_d4x3.125_a3_h4",
+    "hash": "bfdfb52dd730024b5fc21854827df726d9877d34b797a5086fadb59c0c4a2110",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.5",
+    "folder": "runs\\qual_band_s1427_b0.5\\k10x16_d4x3.125_a3_h4",
+    "hash": "439480812fb37eefce7f2948df23f7582747a0140ca74a17f2a9806f7db105bd",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b1",
+    "folder": "runs\\qual_band_s1427_b1\\k10x16_d4x3.125_a3_h4",
+    "hash": "9e8e20e1217e800df11de23304d7ba48a02043445c1f7cfa1342c4d0ee5a2e9e",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k10x1_d2x1.5625_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "random_band_refinement_ref",
+    "settings": "k10x1_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.05",
+    "folder": "runs\\qual_band_s1427_b0.05\\k10x8_d2x1.5625_a3_h4",
+    "hash": "bfdfb52dd730024b5fc21854827df726d9877d34b797a5086fadb59c0c4a2110",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.5",
+    "folder": "runs\\qual_band_s1427_b0.5\\k10x8_d2x1.5625_a3_h4",
+    "hash": "439480812fb37eefce7f2948df23f7582747a0140ca74a17f2a9806f7db105bd",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b1",
+    "folder": "runs\\qual_band_s1427_b1\\k10x8_d2x1.5625_a3_h4",
+    "hash": "9e8e20e1217e800df11de23304d7ba48a02043445c1f7cfa1342c4d0ee5a2e9e",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k10x1_d4x3.125_a5_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "random_band_refinement_ref",
+    "settings": "k10x1_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.05",
+    "folder": "runs\\qual_band_s1427_b0.05\\k10x8_d4x3.125_a5_h4",
+    "hash": "bfdfb52dd730024b5fc21854827df726d9877d34b797a5086fadb59c0c4a2110",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.5",
+    "folder": "runs\\qual_band_s1427_b0.5\\k10x8_d4x3.125_a5_h4",
+    "hash": "439480812fb37eefce7f2948df23f7582747a0140ca74a17f2a9806f7db105bd",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s1427_b1",
+    "folder": "runs\\qual_band_s1427_b1\\k10x8_d4x3.125_a5_h4",
+    "hash": "9e8e20e1217e800df11de23304d7ba48a02043445c1f7cfa1342c4d0ee5a2e9e",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.05",
+    "folder": "runs\\qual_band_s2441_b0.05\\k20x8_d4x3.125_a3_h4",
+    "hash": "b5459a865842433362e91d09409ff78bbfebde25c78a71516fab8fa2cedc1a8e",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.5",
+    "folder": "runs\\qual_band_s2441_b0.5\\k20x8_d4x3.125_a3_h4",
+    "hash": "d1059d4e774b8f784823ef82deda638e1f4214b070e67ef86a0cf995c72a4ffd",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b1",
+    "folder": "runs\\qual_band_s2441_b1\\k20x8_d4x3.125_a3_h4",
+    "hash": "5461e44de62ad6196931cf989e382dcbd497b616ccdc88cce73c3aa0dfd458d3",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.05",
+    "folder": "runs\\qual_band_s2441_b0.05\\k10x16_d4x3.125_a3_h4",
+    "hash": "b5459a865842433362e91d09409ff78bbfebde25c78a71516fab8fa2cedc1a8e",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.5",
+    "folder": "runs\\qual_band_s2441_b0.5\\k10x16_d4x3.125_a3_h4",
+    "hash": "d1059d4e774b8f784823ef82deda638e1f4214b070e67ef86a0cf995c72a4ffd",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b1",
+    "folder": "runs\\qual_band_s2441_b1\\k10x16_d4x3.125_a3_h4",
+    "hash": "5461e44de62ad6196931cf989e382dcbd497b616ccdc88cce73c3aa0dfd458d3",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.05",
+    "folder": "runs\\qual_band_s2441_b0.05\\k10x8_d2x1.5625_a3_h4",
+    "hash": "b5459a865842433362e91d09409ff78bbfebde25c78a71516fab8fa2cedc1a8e",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.5",
+    "folder": "runs\\qual_band_s2441_b0.5\\k10x8_d2x1.5625_a3_h4",
+    "hash": "d1059d4e774b8f784823ef82deda638e1f4214b070e67ef86a0cf995c72a4ffd",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b1",
+    "folder": "runs\\qual_band_s2441_b1\\k10x8_d2x1.5625_a3_h4",
+    "hash": "5461e44de62ad6196931cf989e382dcbd497b616ccdc88cce73c3aa0dfd458d3",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.05",
+    "folder": "runs\\qual_band_s2441_b0.05\\k10x8_d4x3.125_a5_h4",
+    "hash": "b5459a865842433362e91d09409ff78bbfebde25c78a71516fab8fa2cedc1a8e",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.5",
+    "folder": "runs\\qual_band_s2441_b0.5\\k10x8_d4x3.125_a5_h4",
+    "hash": "d1059d4e774b8f784823ef82deda638e1f4214b070e67ef86a0cf995c72a4ffd",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s2441_b1",
+    "folder": "runs\\qual_band_s2441_b1\\k10x8_d4x3.125_a5_h4",
+    "hash": "5461e44de62ad6196931cf989e382dcbd497b616ccdc88cce73c3aa0dfd458d3",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.1",
+    "folder": "runs\\qual_band_s1427_b0.1\\k20x8_d4x3.125_a3_h4",
+    "hash": "48239dce442e5478e44f79f58c3f56297e3dc34b6d4b3bde227eed00e2b4de26",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.2",
+    "folder": "runs\\qual_band_s1427_b0.2\\k20x8_d4x3.125_a3_h4",
+    "hash": "1c72dd01dee391d0b91477d0c14b8e155592c193668138b064273a0e63d6a5bb",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b2",
+    "folder": "runs\\qual_band_s1427_b2\\k20x8_d4x3.125_a3_h4",
+    "hash": "7ad69dc6e9e9bff5883728e82aac677ccc1cf3a81cbdac0cfd3043825f18194b",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.1",
+    "folder": "runs\\qual_band_s1427_b0.1\\k10x16_d4x3.125_a3_h4",
+    "hash": "48239dce442e5478e44f79f58c3f56297e3dc34b6d4b3bde227eed00e2b4de26",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.2",
+    "folder": "runs\\qual_band_s1427_b0.2\\k10x16_d4x3.125_a3_h4",
+    "hash": "1c72dd01dee391d0b91477d0c14b8e155592c193668138b064273a0e63d6a5bb",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b2",
+    "folder": "runs\\qual_band_s1427_b2\\k10x16_d4x3.125_a3_h4",
+    "hash": "7ad69dc6e9e9bff5883728e82aac677ccc1cf3a81cbdac0cfd3043825f18194b",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.1",
+    "folder": "runs\\qual_band_s1427_b0.1\\k10x8_d2x1.5625_a3_h4",
+    "hash": "48239dce442e5478e44f79f58c3f56297e3dc34b6d4b3bde227eed00e2b4de26",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.2",
+    "folder": "runs\\qual_band_s1427_b0.2\\k10x8_d2x1.5625_a3_h4",
+    "hash": "1c72dd01dee391d0b91477d0c14b8e155592c193668138b064273a0e63d6a5bb",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b2",
+    "folder": "runs\\qual_band_s1427_b2\\k10x8_d2x1.5625_a3_h4",
+    "hash": "7ad69dc6e9e9bff5883728e82aac677ccc1cf3a81cbdac0cfd3043825f18194b",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.1",
+    "folder": "runs\\qual_band_s1427_b0.1\\k10x8_d4x3.125_a5_h4",
+    "hash": "48239dce442e5478e44f79f58c3f56297e3dc34b6d4b3bde227eed00e2b4de26",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s1427_b0.2",
+    "folder": "runs\\qual_band_s1427_b0.2\\k10x8_d4x3.125_a5_h4",
+    "hash": "1c72dd01dee391d0b91477d0c14b8e155592c193668138b064273a0e63d6a5bb",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s1427_b2",
+    "folder": "runs\\qual_band_s1427_b2\\k10x8_d4x3.125_a5_h4",
+    "hash": "7ad69dc6e9e9bff5883728e82aac677ccc1cf3a81cbdac0cfd3043825f18194b",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.1",
+    "folder": "runs\\qual_band_s2441_b0.1\\k20x8_d4x3.125_a3_h4",
+    "hash": "698d74ff34f608ce6601a89da3c6ad0d69b0cda2189f70cf3950771b76456704",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.2",
+    "folder": "runs\\qual_band_s2441_b0.2\\k20x8_d4x3.125_a3_h4",
+    "hash": "94381b9be5825bf8328194f82194fd3c4e351812695ede92eaea01b567190f50",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b2",
+    "folder": "runs\\qual_band_s2441_b2\\k20x8_d4x3.125_a3_h4",
+    "hash": "13d4c549481d85b85dc50e6e8b5139dcf696989cc5f44ae12fea8fe39167f038",
+    "group": "random_band_refinement",
+    "settings": "k20x8_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.1",
+    "folder": "runs\\qual_band_s2441_b0.1\\k10x16_d4x3.125_a3_h4",
+    "hash": "698d74ff34f608ce6601a89da3c6ad0d69b0cda2189f70cf3950771b76456704",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.2",
+    "folder": "runs\\qual_band_s2441_b0.2\\k10x16_d4x3.125_a3_h4",
+    "hash": "94381b9be5825bf8328194f82194fd3c4e351812695ede92eaea01b567190f50",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b2",
+    "folder": "runs\\qual_band_s2441_b2\\k10x16_d4x3.125_a3_h4",
+    "hash": "13d4c549481d85b85dc50e6e8b5139dcf696989cc5f44ae12fea8fe39167f038",
+    "group": "random_band_refinement",
+    "settings": "k10x16_d4x3.125_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.1",
+    "folder": "runs\\qual_band_s2441_b0.1\\k10x8_d2x1.5625_a3_h4",
+    "hash": "698d74ff34f608ce6601a89da3c6ad0d69b0cda2189f70cf3950771b76456704",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.2",
+    "folder": "runs\\qual_band_s2441_b0.2\\k10x8_d2x1.5625_a3_h4",
+    "hash": "94381b9be5825bf8328194f82194fd3c4e351812695ede92eaea01b567190f50",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b2",
+    "folder": "runs\\qual_band_s2441_b2\\k10x8_d2x1.5625_a3_h4",
+    "hash": "13d4c549481d85b85dc50e6e8b5139dcf696989cc5f44ae12fea8fe39167f038",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d2x1.5625_a3_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.1",
+    "folder": "runs\\qual_band_s2441_b0.1\\k10x8_d4x3.125_a5_h4",
+    "hash": "698d74ff34f608ce6601a89da3c6ad0d69b0cda2189f70cf3950771b76456704",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s2441_b0.2",
+    "folder": "runs\\qual_band_s2441_b0.2\\k10x8_d4x3.125_a5_h4",
+    "hash": "94381b9be5825bf8328194f82194fd3c4e351812695ede92eaea01b567190f50",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  },
+  {
+    "case": "qual_band_s2441_b2",
+    "folder": "runs\\qual_band_s2441_b2\\k10x8_d4x3.125_a5_h4",
+    "hash": "13d4c549481d85b85dc50e6e8b5139dcf696989cc5f44ae12fea8fe39167f038",
+    "group": "random_band_refinement",
+    "settings": "k10x8_d4x3.125_a5_h4"
+  }
+]

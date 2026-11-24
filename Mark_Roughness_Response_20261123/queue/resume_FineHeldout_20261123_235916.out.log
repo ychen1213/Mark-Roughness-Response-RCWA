@@ -1,0 +1,7 @@
+Worker 41872 .\additional.py fine_blind --limit 8 --threads 4
+Worker exit code 0
+Worker 45400 .\additional.py fine_blind --start 9 --limit 1 --threads 4
+Worker exit code 0
+Worker 33688 .\additional.py fine_blind --start 8 --limit 1 --threads 4
+Native child exited for worker 33688. Resuming its uncommitted cases.
+Worker 39520 .\additional.py fine_blind --start 8 --limit 1 --threads 4

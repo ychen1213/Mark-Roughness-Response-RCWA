@@ -1,0 +1,3 @@
+Worker 40372 .\decisions.py --direct --refine --threads 4
+Native child exited for worker 40372. Resuming its uncommitted cases.
+Worker 38952 .\decisions.py --direct --refine --threads 4

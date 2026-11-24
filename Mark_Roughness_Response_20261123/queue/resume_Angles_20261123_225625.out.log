@@ -1,0 +1,7 @@
+original_curve: 2 cases, queue log original_curve_4248.jsonl
+RCWA original_curve chart_s1427 k10x12_d2x5_a5_h4, modes 525
+Saved chart_s1427 k10x12_d2x5_a5_h4 in 484.0 s
+RCWA smooth_reference smooth_l8_u1 k10x1_d2x5_a5_h4, modes 63
+Saved smooth_l8_u1 k10x1_d2x5_a5_h4 in 90.7 s
+original_curve: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot

@@ -1,0 +1,18 @@
+Waiting for a study RCWA worker slot
+factors: next 8 cases, queue log factors_19180.jsonl
+RCWA stat_factor_cross factor_sigma_nm_xi_um_00_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_00_s1427 k10x8_d4x20_a3_h4 in 47.7 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_10_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_10_s1427 k10x8_d4x20_a3_h4 in 43.8 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_01_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_01_s1427 k10x8_d4x20_a3_h4 in 39.8 s
+RCWA stat_factor_cross factor_sigma_nm_xi_um_11_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_xi_um_11_s1427 k10x8_d4x20_a3_h4 in 44.1 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_00_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_00_s1427 k10x8_d4x20_a3_h4 in 49.4 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_01_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_01_s1427 k10x8_d4x20_a3_h4 in 39.9 s
+RCWA stat_factor_cross factor_sigma_nm_hurst_11_s1427 k10x8_d4x20_a3_h4, modes 357
+Saved factor_sigma_nm_hurst_11_s1427 k10x8_d4x20_a3_h4 in 36.3 s
+factors: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot

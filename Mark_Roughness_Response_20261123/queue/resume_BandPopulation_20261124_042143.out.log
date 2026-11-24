@@ -1,0 +1,5 @@
+Worker 46864 .\design.py bands --threads 5
+Native child exited for worker 46864. Resuming its uncommitted cases.
+Worker 26920 .\design.py bands --threads 5
+Native child exited for worker 26920. Resuming its uncommitted cases.
+Worker 6736 .\design.py bands --threads 5

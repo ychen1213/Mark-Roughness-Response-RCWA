@@ -1,0 +1,2 @@
+{"case": "blind_new_combo_05_s9221", "setting": "k60x4_d4x20_a3_h4", "group": "original_curve", "folder": "runs\\blind_new_combo_05_s9221\\k60x4_d4x20_a3_h4", "result": "complete", "seconds": 868.7854741000046, "time": "2026-11-24T02:33:15.139368+08:00"}
+{"case": "smooth_l8_u2", "setting": "k60x1_d4x20_a3_h4", "group": "smooth_reference", "folder": "runs\\smooth_l8_u2\\k60x1_d4x20_a3_h4", "result": "complete", "seconds": 44.039023599994835, "time": "2026-11-24T02:34:09.109792+08:00"}

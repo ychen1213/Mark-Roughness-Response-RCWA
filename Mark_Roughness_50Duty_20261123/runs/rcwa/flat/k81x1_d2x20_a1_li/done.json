@@ -1,0 +1,31 @@
+{
+  "case": "flat",
+  "ku": 81,
+  "kv": 1,
+  "du_nm": 2.0,
+  "dv_nm": 20,
+  "angle_table_deg": [
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "fit_nk": [
+    3.8628880724761885,
+    0.02353984595462745
+  ],
+  "solve_s": 2.813659800012829,
+  "wall_s": 3.151772200013511,
+  "results": {
+    "peak_memory": 503153.0,
+    "simulation_run_time": 0.6943436,
+    "total_threads": 8.0,
+    "actual mesh cells x": "3200",
+    "actual mesh cells z": "64",
+    "interface actual positions": 3e-07
+  },
+  "lu_um": 6.4,
+  "lv_um": 8.0,
+  "reference_y_um": 0.3,
+  "li": true
+}

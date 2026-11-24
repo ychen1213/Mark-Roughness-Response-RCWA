@@ -1,0 +1,77 @@
+Parameter-axis response curves: 23
+Joint parameter response grid: 200
+Reduction screening statistics: 9
+Reduction targets: 16
+Waiting for a study RCWA worker slot
+reductions: next 8 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+reductions: next 8 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 8 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 5 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+RCWA policy_direct omit_15_s24319_xi k20x8_d4x20_a3_h4, modes 697
+Saved omit_15_s24319_xi k20x8_d4x20_a3_h4 in 318.5 s
+reductions: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+RCWA policy_direct omit_28_s24319 k20x8_d4x20_a3_h4, modes 697
+Saved omit_28_s24319 k20x8_d4x20_a3_h4 in 323.0 s
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+RCWA policy_direct omit_28_s24319_rho_lr k20x8_d4x20_a3_h4, modes 697
+Saved omit_28_s24319_rho_lr k20x8_d4x20_a3_h4 in 328.1 s
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+RCWA policy_direct omit_00_s24320_rho_lr k20x8_d4x20_a3_h4, modes 697
+Saved omit_00_s24320_rho_lr k20x8_d4x20_a3_h4 in 320.9 s
+reductions: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+reductions: next 1 cases, queue log reductions_38952.jsonl
+RCWA policy_direct omit_04_s24319_rho_line k20x8_d4x20_a3_h4, modes 697
+Saved omit_04_s24319_rho_line k20x8_d4x20_a3_h4 in 312.9 s
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+RCWA policy_direct omit_19_s24321 k20x8_d4x20_a3_h4, modes 697
+Saved omit_19_s24321 k20x8_d4x20_a3_h4 in 312.0 s
+reductions: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+reductions: next 1 cases, queue log reductions_38952.jsonl
+RCWA policy_direct omit_19_s24321_rho_line k20x8_d4x20_a3_h4, modes 697
+Saved omit_19_s24321_rho_line k20x8_d4x20_a3_h4 in 305.9 s
+reductions: complete, 0 cases unavailable
+reductions: next 1 cases, queue log reductions_38952.jsonl
+RCWA policy_direct omit_27_s24321 k20x8_d4x20_a3_h4, modes 697

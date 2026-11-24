@@ -1,0 +1,10 @@
+Worker 27720 .\additional.py strict_bands --angles 3 --limit 8 --threads 5
+Worker exit code 0
+Worker 43680 .\design.py strict --start 14 --threads 6
+Native child exited for worker 43680. Resuming its uncommitted cases.
+Worker 42748 .\design.py strict --start 14 --threads 6
+Native child exited for worker 42748. Resuming its uncommitted cases.
+Worker 24776 .\design.py strict --start 14 --threads 6
+Native child exited for worker 24776. Resuming its uncommitted cases.
+The worker lost its native process on three launches. Completed results remain available.
+Worker 26600 .\additional.py strict_pairs --angles 3 --start 16 --threads 5

@@ -1,0 +1,2 @@
+{"case": "hmode_r0.5_wm_n2_t+1", "setting": "k10x3_d4x20_a3_h4", "group": "height_kernel", "folder": "runs\\hmode_r0.5_wm_n2_t+1\\k10x3_d4x20_a3_h4", "result": "complete", "seconds": 23.539400800014846, "time": "2026-11-24T07:17:30.588204+08:00"}
+{"case": "hmode_r0.5_wm_n2_t-1", "setting": "k10x3_d4x20_a3_h4", "group": "height_kernel", "folder": "runs\\hmode_r0.5_wm_n2_t-1\\k10x3_d4x20_a3_h4", "result": "complete", "seconds": 22.542445899976883, "time": "2026-11-24T07:20:34.749022+08:00"}

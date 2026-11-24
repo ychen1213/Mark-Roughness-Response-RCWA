@@ -1,0 +1,3 @@
+{"case": "reference_u2", "setting": "k20x1_d2x10_a3_h4", "group": "fine_blind_reference", "folder": "runs\\reference_u2\\k20x1_d2x10_a3_h4", "result": "cached", "seconds": 69.92100020000362, "time": "2026-11-23T22:56:39.337805+08:00"}
+{"case": "blind_new_combo_05_s9221", "setting": "k20x4_d2x10_a3_h4", "group": "fine_blind_diagnostic", "folder": "runs\\blind_new_combo_05_s9221\\k20x4_d2x10_a3_h4", "result": "cached", "seconds": 102.58851780000259, "time": "2026-11-23T22:56:39.351782+08:00"}
+{"case": "blind_new_combo_05_s9221", "setting": "k20x8_d2x10_a3_h4", "group": "fine_blind_diagnostic", "folder": "runs\\blind_new_combo_05_s9221\\k20x8_d2x10_a3_h4", "result": "complete", "seconds": 417.5865647000028, "time": "2026-11-23T23:03:37.697588+08:00"}

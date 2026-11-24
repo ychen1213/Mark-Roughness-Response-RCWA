@@ -1,0 +1,246 @@
+pairs: next 8 cases, queue log pairs_43848.jsonl
+pairs: complete, 0 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cp4_wm4_q0_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp4_wm4_q0_pp k20x3_d2x10_a3_h4 in 37.6 s
+RCWA mode_cross cross_cp4_wm4_q0_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp4_wm4_q0_pm k20x3_d2x10_a3_h4 in 34.4 s
+RCWA mode_cross cross_cp4_wm4_q1_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp4_wm4_q1_pp k20x3_d2x10_a3_h4 in 35.6 s
+RCWA mode_cross cross_cp4_wm4_q1_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp4_wm4_q1_pm k20x3_d2x10_a3_h4 in 33.7 s
+RCWA mode_cross cross_cm4_wp4_q0_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm4_wp4_q0_pp k20x3_d2x10_a3_h4 in 32.3 s
+RCWA mode_cross cross_cm4_wp4_q0_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm4_wp4_q0_pm k20x3_d2x10_a3_h4 in 32.0 s
+RCWA mode_cross cross_cm4_wp4_q1_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm4_wp4_q1_pp k20x3_d2x10_a3_h4 in 33.6 s
+RCWA mode_cross cross_cm4_wp4_q1_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm4_wp4_q1_pm k20x3_d2x10_a3_h4 in 32.5 s
+pairs: complete, 0 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cm4_wm4_q0_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm4_wm4_q0_pp k20x3_d2x10_a3_h4 in 36.9 s
+RCWA mode_cross cross_cm4_wm4_q0_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm4_wm4_q0_pm k20x3_d2x10_a3_h4 in 35.9 s
+RCWA mode_cross cross_cm4_wm4_q1_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm4_wm4_q1_pp k20x3_d2x10_a3_h4 in 35.9 s
+RCWA mode_cross cross_cm4_wm4_q1_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm4_wm4_q1_pm k20x3_d2x10_a3_h4 in 34.5 s
+Resource limit cross_wp4_wm4_q0_pp k20x3_d2x10_a3_h4: 1.25 GiB estimated, 2.40 GiB free
+Resource limit cross_wp4_wm4_q0_pm k20x3_d2x10_a3_h4: 1.25 GiB estimated, 2.40 GiB free
+Resource limit cross_wp4_wm4_q1_pp k20x3_d2x10_a3_h4: 1.25 GiB estimated, 2.40 GiB free
+Resource limit cross_wp4_wm4_q1_pm k20x3_d2x10_a3_h4: 1.25 GiB estimated, 2.40 GiB free
+pairs: complete, 4 cases unavailable
+Waiting for a study RCWA worker slot
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cp8_cm8_q0_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_cp8_cm8_q0_pp k20x2_d2x10_a3_h4 in 14.7 s
+RCWA mode_cross cross_cp8_cm8_q0_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_cp8_cm8_q0_pm k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cp8_cm8_q1_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_cp8_cm8_q1_pp k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cp8_cm8_q1_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_cp8_cm8_q1_pm k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cp8_wp8_q0_pp k10x2_d2x10_a3_h4, modes 105
+Saved cross_cp8_wp8_q0_pp k10x2_d2x10_a3_h4 in 4.0 s
+RCWA mode_cross cross_cp8_wp8_q0_pm k10x2_d2x10_a3_h4, modes 105
+Saved cross_cp8_wp8_q0_pm k10x2_d2x10_a3_h4 in 5.3 s
+RCWA mode_cross cross_cp8_wp8_q1_pp k10x2_d2x10_a3_h4, modes 105
+Saved cross_cp8_wp8_q1_pp k10x2_d2x10_a3_h4 in 3.9 s
+RCWA mode_cross cross_cp8_wp8_q1_pm k10x2_d2x10_a3_h4, modes 105
+Saved cross_cp8_wp8_q1_pm k10x2_d2x10_a3_h4 in 3.9 s
+pairs: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cp8_wm8_q0_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_cp8_wm8_q0_pp k20x2_d2x10_a3_h4 in 14.8 s
+RCWA mode_cross cross_cp8_wm8_q0_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_cp8_wm8_q0_pm k20x2_d2x10_a3_h4 in 14.1 s
+RCWA mode_cross cross_cp8_wm8_q1_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_cp8_wm8_q1_pp k20x2_d2x10_a3_h4 in 15.3 s
+RCWA mode_cross cross_cp8_wm8_q1_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_cp8_wm8_q1_pm k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cm8_wp8_q0_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wp8_q0_pp k20x2_d2x10_a3_h4 in 13.6 s
+RCWA mode_cross cross_cm8_wp8_q0_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wp8_q0_pm k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cm8_wp8_q1_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wp8_q1_pp k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cm8_wp8_q1_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wp8_q1_pm k20x2_d2x10_a3_h4 in 13.7 s
+pairs: complete, 0 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cm8_wm8_q0_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wm8_q0_pp k20x2_d2x10_a3_h4 in 14.6 s
+RCWA mode_cross cross_cm8_wm8_q0_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wm8_q0_pm k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cm8_wm8_q1_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wm8_q1_pp k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cm8_wm8_q1_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wm8_q1_pm k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_wp8_wm8_q0_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_wp8_wm8_q0_pp k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_wp8_wm8_q0_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_wp8_wm8_q0_pm k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_wp8_wm8_q1_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_wp8_wm8_q1_pp k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_wp8_wm8_q1_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_wp8_wm8_q1_pm k20x2_d2x10_a3_h4 in 13.8 s
+pairs: complete, 0 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cp16_cm16_q0_pp k20x1_d2x10_a3_h4, modes 123
+Saved cross_cp16_cm16_q0_pp k20x1_d2x10_a3_h4 in 6.7 s
+RCWA mode_cross cross_cp16_cm16_q0_pm k20x1_d2x10_a3_h4, modes 123
+Saved cross_cp16_cm16_q0_pm k20x1_d2x10_a3_h4 in 5.7 s
+RCWA mode_cross cross_cp16_cm16_q1_pp k20x1_d2x10_a3_h4, modes 123
+Saved cross_cp16_cm16_q1_pp k20x1_d2x10_a3_h4 in 5.6 s
+RCWA mode_cross cross_cp16_cm16_q1_pm k20x1_d2x10_a3_h4, modes 123
+Saved cross_cp16_cm16_q1_pm k20x1_d2x10_a3_h4 in 5.6 s
+RCWA mode_cross cross_cp16_wp16_q0_pp k10x1_d2x10_a3_h4, modes 63
+Saved cross_cp16_wp16_q0_pp k10x1_d2x10_a3_h4 in 2.0 s
+RCWA mode_cross cross_cp16_wp16_q0_pm k10x1_d2x10_a3_h4, modes 63
+Saved cross_cp16_wp16_q0_pm k10x1_d2x10_a3_h4 in 1.9 s
+RCWA mode_cross cross_cp16_wp16_q1_pp k10x1_d2x10_a3_h4, modes 63
+Saved cross_cp16_wp16_q1_pp k10x1_d2x10_a3_h4 in 3.0 s
+RCWA mode_cross cross_cp16_wp16_q1_pm k10x1_d2x10_a3_h4, modes 63
+Saved cross_cp16_wp16_q1_pm k10x1_d2x10_a3_h4 in 2.0 s
+pairs: complete, 0 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+Resource limit cross_cp16_wm16_q0_pp k20x1_d2x10_a3_h4: 1.05 GiB estimated, 2.48 GiB free
+Resource limit cross_cp16_wm16_q0_pm k20x1_d2x10_a3_h4: 1.05 GiB estimated, 2.48 GiB free
+Resource limit cross_cp16_wm16_q1_pp k20x1_d2x10_a3_h4: 1.05 GiB estimated, 2.48 GiB free
+Resource limit cross_cp16_wm16_q1_pm k20x1_d2x10_a3_h4: 1.05 GiB estimated, 2.48 GiB free
+Resource limit cross_cm16_wp16_q0_pp k20x1_d2x10_a3_h4: 1.05 GiB estimated, 2.48 GiB free
+Resource limit cross_cm16_wp16_q0_pm k20x1_d2x10_a3_h4: 1.05 GiB estimated, 2.48 GiB free
+Resource limit cross_cm16_wp16_q1_pp k20x1_d2x10_a3_h4: 1.05 GiB estimated, 2.48 GiB free
+Resource limit cross_cm16_wp16_q1_pm k20x1_d2x10_a3_h4: 1.05 GiB estimated, 2.48 GiB free
+pairs: complete, 8 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cm16_wm16_q0_pp k20x1_d2x10_a3_h4, modes 123
+Saved cross_cm16_wm16_q0_pp k20x1_d2x10_a3_h4 in 6.6 s
+RCWA mode_cross cross_cm16_wm16_q0_pm k20x1_d2x10_a3_h4, modes 123
+Saved cross_cm16_wm16_q0_pm k20x1_d2x10_a3_h4 in 5.6 s
+RCWA mode_cross cross_cm16_wm16_q1_pp k20x1_d2x10_a3_h4, modes 123
+Saved cross_cm16_wm16_q1_pp k20x1_d2x10_a3_h4 in 5.6 s
+RCWA mode_cross cross_cm16_wm16_q1_pm k20x1_d2x10_a3_h4, modes 123
+Saved cross_cm16_wm16_q1_pm k20x1_d2x10_a3_h4 in 5.6 s
+RCWA mode_cross cross_wp16_wm16_q0_pp k20x1_d2x10_a3_h4, modes 123
+Saved cross_wp16_wm16_q0_pp k20x1_d2x10_a3_h4 in 5.6 s
+RCWA mode_cross cross_wp16_wm16_q0_pm k20x1_d2x10_a3_h4, modes 123
+Saved cross_wp16_wm16_q0_pm k20x1_d2x10_a3_h4 in 5.5 s
+RCWA mode_cross cross_wp16_wm16_q1_pp k20x1_d2x10_a3_h4, modes 123
+Saved cross_wp16_wm16_q1_pp k20x1_d2x10_a3_h4 in 5.6 s
+RCWA mode_cross cross_wp16_wm16_q1_pm k20x1_d2x10_a3_h4, modes 123
+Saved cross_wp16_wm16_q1_pm k20x1_d2x10_a3_h4 in 5.6 s
+pairs: complete, 0 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+Resource limit cross_cp2_cm2_q0_pp k20x3_d2x10_a3_h4: 1.25 GiB estimated, 2.64 GiB free
+Resource limit cross_cp2_cm2_q0_pm k20x3_d2x10_a3_h4: 1.25 GiB estimated, 2.64 GiB free
+Resource limit cross_cp2_cm2_q1_pp k20x3_d2x10_a3_h4: 1.25 GiB estimated, 2.64 GiB free
+Resource limit cross_cp2_cm2_q1_pm k20x3_d2x10_a3_h4: 1.25 GiB estimated, 2.64 GiB free
+RCWA mode_cross cross_cp2_wp2_q0_pp k10x3_d2x10_a3_h4, modes 147
+Saved cross_cp2_wp2_q0_pp k10x3_d2x10_a3_h4 in 13.2 s
+RCWA mode_cross cross_cp2_wp2_q0_pm k10x3_d2x10_a3_h4, modes 147
+Saved cross_cp2_wp2_q0_pm k10x3_d2x10_a3_h4 in 13.6 s
+RCWA mode_cross cross_cp2_wp2_q1_pp k10x3_d2x10_a3_h4, modes 147
+Saved cross_cp2_wp2_q1_pp k10x3_d2x10_a3_h4 in 13.2 s
+RCWA mode_cross cross_cp2_wp2_q1_pm k10x3_d2x10_a3_h4, modes 147
+Saved cross_cp2_wp2_q1_pm k10x3_d2x10_a3_h4 in 12.6 s
+pairs: complete, 4 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cp2_wm2_q0_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp2_wm2_q0_pp k20x3_d2x10_a3_h4 in 42.0 s
+RCWA mode_cross cross_cp2_wm2_q0_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp2_wm2_q0_pm k20x3_d2x10_a3_h4 in 39.9 s
+RCWA mode_cross cross_cp2_wm2_q1_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp2_wm2_q1_pp k20x3_d2x10_a3_h4 in 41.8 s
+RCWA mode_cross cross_cp2_wm2_q1_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cp2_wm2_q1_pm k20x3_d2x10_a3_h4 in 42.9 s
+RCWA mode_cross cross_cm2_wp2_q0_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm2_wp2_q0_pp k20x3_d2x10_a3_h4 in 42.0 s
+RCWA mode_cross cross_cm2_wp2_q0_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm2_wp2_q0_pm k20x3_d2x10_a3_h4 in 43.2 s
+RCWA mode_cross cross_cm2_wp2_q1_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm2_wp2_q1_pp k20x3_d2x10_a3_h4 in 42.4 s
+RCWA mode_cross cross_cm2_wp2_q1_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm2_wp2_q1_pm k20x3_d2x10_a3_h4 in 40.4 s
+pairs: complete, 0 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cm2_wm2_q0_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm2_wm2_q0_pp k20x3_d2x10_a3_h4 in 46.2 s
+RCWA mode_cross cross_cm2_wm2_q0_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm2_wm2_q0_pm k20x3_d2x10_a3_h4 in 45.9 s
+RCWA mode_cross cross_cm2_wm2_q1_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm2_wm2_q1_pp k20x3_d2x10_a3_h4 in 43.9 s
+RCWA mode_cross cross_cm2_wm2_q1_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_cm2_wm2_q1_pm k20x3_d2x10_a3_h4 in 42.0 s
+RCWA mode_cross cross_wp2_wm2_q0_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_wp2_wm2_q0_pp k20x3_d2x10_a3_h4 in 40.0 s
+RCWA mode_cross cross_wp2_wm2_q0_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_wp2_wm2_q0_pm k20x3_d2x10_a3_h4 in 44.0 s
+RCWA mode_cross cross_wp2_wm2_q1_pp k20x3_d2x10_a3_h4, modes 287
+Saved cross_wp2_wm2_q1_pp k20x3_d2x10_a3_h4 in 44.0 s
+RCWA mode_cross cross_wp2_wm2_q1_pm k20x3_d2x10_a3_h4, modes 287
+Saved cross_wp2_wm2_q1_pm k20x3_d2x10_a3_h4 in 44.2 s
+pairs: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cp2_wp4_q0_pp k10x4_d2x10_a3_h4, modes 189
+Saved cross_cp2_wp4_q0_pp k10x4_d2x10_a3_h4 in 17.1 s
+RCWA mode_cross cross_cp2_wp4_q0_pm k10x4_d2x10_a3_h4, modes 189
+Saved cross_cp2_wp4_q0_pm k10x4_d2x10_a3_h4 in 17.5 s
+RCWA mode_cross cross_wp2_wp4_q0_pp k10x4_d2x10_a3_h4, modes 189
+Saved cross_wp2_wp4_q0_pp k10x4_d2x10_a3_h4 in 16.1 s
+RCWA mode_cross cross_wp2_wp4_q0_pm k10x4_d2x10_a3_h4, modes 189
+Saved cross_wp2_wp4_q0_pm k10x4_d2x10_a3_h4 in 16.4 s
+RCWA mode_cross cross_cm2_wm4_q0_pp k20x4_d2x10_a3_h4, modes 369
+Saved cross_cm2_wm4_q0_pp k20x4_d2x10_a3_h4 in 67.4 s
+RCWA mode_cross cross_cm2_wm4_q0_pm k20x4_d2x10_a3_h4, modes 369
+Saved cross_cm2_wm4_q0_pm k20x4_d2x10_a3_h4 in 67.0 s
+RCWA mode_cross cross_cp4_wp8_q0_pp k10x4_d2x10_a3_h4, modes 189
+Saved cross_cp4_wp8_q0_pp k10x4_d2x10_a3_h4 in 13.1 s
+RCWA mode_cross cross_cp4_wp8_q0_pm k10x4_d2x10_a3_h4, modes 189
+Saved cross_cp4_wp8_q0_pm k10x4_d2x10_a3_h4 in 13.4 s
+pairs: complete, 0 cases unavailable
+pairs: next 8 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_wp4_wp8_q0_pp k10x4_d2x10_a3_h4, modes 189
+Saved cross_wp4_wp8_q0_pp k10x4_d2x10_a3_h4 in 12.9 s
+RCWA mode_cross cross_wp4_wp8_q0_pm k10x4_d2x10_a3_h4, modes 189
+Saved cross_wp4_wp8_q0_pm k10x4_d2x10_a3_h4 in 12.4 s
+RCWA mode_cross cross_cm4_wm8_q0_pp k20x4_d2x10_a3_h4, modes 369
+Saved cross_cm4_wm8_q0_pp k20x4_d2x10_a3_h4 in 62.0 s
+RCWA mode_cross cross_cm4_wm8_q0_pm k20x4_d2x10_a3_h4, modes 369
+Saved cross_cm4_wm8_q0_pm k20x4_d2x10_a3_h4 in 61.6 s
+RCWA mode_cross cross_cp8_wp16_q0_pp k10x2_d2x10_a3_h4, modes 105
+Saved cross_cp8_wp16_q0_pp k10x2_d2x10_a3_h4 in 4.2 s
+RCWA mode_cross cross_cp8_wp16_q0_pm k10x2_d2x10_a3_h4, modes 105
+Saved cross_cp8_wp16_q0_pm k10x2_d2x10_a3_h4 in 4.8 s
+RCWA mode_cross cross_wp8_wp16_q0_pp k10x2_d2x10_a3_h4, modes 105
+Saved cross_wp8_wp16_q0_pp k10x2_d2x10_a3_h4 in 4.2 s
+RCWA mode_cross cross_wp8_wp16_q0_pm k10x2_d2x10_a3_h4, modes 105
+Saved cross_wp8_wp16_q0_pm k10x2_d2x10_a3_h4 in 5.0 s
+pairs: complete, 0 cases unavailable
+pairs: next 6 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cm8_wm16_q0_pp k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wm16_q0_pp k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cm8_wm16_q0_pm k20x2_d2x10_a3_h4, modes 205
+Saved cross_cm8_wm16_q0_pm k20x2_d2x10_a3_h4 in 13.7 s
+RCWA mode_cross cross_cp2_wp16_q0_pp k10x8_d2x10_a3_h4, modes 357
+Saved cross_cp2_wp16_q0_pp k10x8_d2x10_a3_h4 in 53.0 s
+RCWA mode_cross cross_cp2_wp16_q0_pm k10x8_d2x10_a3_h4, modes 357
+Saved cross_cp2_wp16_q0_pm k10x8_d2x10_a3_h4 in 57.3 s
+RCWA mode_cross cross_wp2_wp16_q0_pp k10x8_d2x10_a3_h4, modes 357
+Saved cross_wp2_wp16_q0_pp k10x8_d2x10_a3_h4 in 56.2 s
+RCWA mode_cross cross_wp2_wp16_q0_pm k10x8_d2x10_a3_h4, modes 357
+Saved cross_wp2_wp16_q0_pm k10x8_d2x10_a3_h4 in 56.5 s
+pairs: complete, 0 cases unavailable
+pairs: next 1 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cm2_wm16_q0_pp k20x8_d2x10_a3_h4, modes 697
+Saved cross_cm2_wm16_q0_pp k20x8_d2x10_a3_h4 in 330.4 s
+pairs: complete, 0 cases unavailable
+pairs: next 1 cases, queue log pairs_43848.jsonl
+RCWA mode_cross cross_cm2_wm16_q0_pm k20x8_d2x10_a3_h4, modes 697
+Saved cross_cm2_wm16_q0_pm k20x8_d2x10_a3_h4 in 327.1 s
+pairs: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot

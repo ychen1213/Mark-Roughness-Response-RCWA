@@ -1,0 +1,9 @@
+Worker 44004 .\design.py bands --start 0 --limit 12 --threads 4
+Worker exit code 0
+Worker 46364 .\design.py bands --start 24 --limit 12 --threads 4
+Native child exited for worker 46364. Resuming its uncommitted cases.
+Worker 40424 .\design.py bands --start 24 --limit 12 --threads 4
+Native child exited for worker 40424. Resuming its uncommitted cases.
+Worker 43464 .\design.py bands --start 24 --limit 12 --threads 4
+Native child exited for worker 43464. Resuming its uncommitted cases.
+The worker lost its native process on three launches. Completed results remain available.

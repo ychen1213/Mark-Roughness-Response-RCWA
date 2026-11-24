@@ -1,0 +1,2 @@
+Worker 27392 .\fine_validation.py --strong-width --threads 4
+Worker exit code 0

@@ -1,0 +1,2 @@
+Worker 44664 .\additional.py blind_x_continuation --angles 3 --threads 4
+Worker exit code 0

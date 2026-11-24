@@ -1,0 +1,8 @@
+Response library with 96 single modes and 114 mixed terms
+SHA-256 890f5b4a6ce565e2ab5fc124e3302bb5aa2bb410f973b90002078fece9bd7347 E:\Mark_Roughness_Response_20261123\analysis\response_model.npz
+{'direct_kpis': 230, 'numerical_convergence': 40, 'band_pairs_native': 11, 'band_seed_statistics': 11, 'factor_interactions': 10, 'factor_interaction_convergence': 0, 'heldout_prediction': 770, 'heldout_summary': 21, 'band_quadratic_correction': 8, 'deterministic_interactions': 126, 'modal_kpi_frequency_response': 96, 'band_psd_prediction': 24}
+Parameter-axis response curves: 23
+Joint parameter response grid: 200
+Reduction screening statistics: 9
+Reduction targets: 16
+Primary held-out analysis and artifact generation complete.

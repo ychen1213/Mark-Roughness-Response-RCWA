@@ -1,0 +1,49 @@
+{
+  "case": "solo_cp_n4_a5",
+  "geometry_hash": "3efa7b5e08d9345fe8d564166255e96f826db5c7c2da11252f5ae6dd023de5b4",
+  "group": "fine_blind_test",
+  "setting": {
+    "ku": 5,
+    "kv": 3,
+    "du_nm": 4.0,
+    "dv_nm": 20.0,
+    "angles": 3,
+    "slices": 4,
+    "li": false
+  },
+  "settings_key": "k5x3_d4x20_a3_h4",
+  "angle_table_deg": [
+    [
+      1.4073711748889475,
+      90.0
+    ]
+  ],
+  "reference_y_um": 0.3,
+  "lu_um": 3.2,
+  "lv_um": 2.0,
+  "requested_lu_um": 3.2,
+  "native_setting": {
+    "ku": 5,
+    "kv": 3,
+    "du_nm": 4.0,
+    "dv_nm": 20.0,
+    "angles": 3,
+    "slices": 4,
+    "li": false
+  },
+  "fit_nk": [
+    3.8628880724761885,
+    0.02353984595462745
+  ],
+  "interface_y_um": [
+    0.0,
+    0.3
+  ],
+  "solve_s": 1.6425864000048023,
+  "results": {
+    "num_k": 77.0,
+    "peak_memory": 353657.0,
+    "simulation_run_time": 0.3770761,
+    "total_threads": 3.0
+  }
+}

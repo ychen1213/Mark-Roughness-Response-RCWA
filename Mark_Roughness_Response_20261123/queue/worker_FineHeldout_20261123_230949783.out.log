@@ -1,0 +1,15 @@
+Waiting for a study RCWA worker slot
+fine_blind: 11 cases, queue log fine_blind_38300.jsonl
+RCWA fine_blind_test blind_new_seed_00_s9101 k20x4_d2x10_a3_h4, modes 369
+Saved blind_new_seed_00_s9101 k20x4_d2x10_a3_h4 in 96.6 s
+RCWA fine_blind_test blind_new_seed_00_s9101 k20x8_d2x10_a3_h4, modes 697
+Saved blind_new_seed_00_s9101 k20x8_d2x10_a3_h4 in 379.5 s
+RCWA fine_blind_test blind_new_seed_03_s9151 k20x4_d2x10_a3_h4, modes 369
+Saved blind_new_seed_03_s9151 k20x4_d2x10_a3_h4 in 92.6 s
+RCWA fine_blind_test blind_new_seed_03_s9151 k20x8_d2x10_a3_h4, modes 697
+Saved blind_new_seed_03_s9151 k20x8_d2x10_a3_h4 in 359.4 s
+RCWA fine_blind_test blind_new_combo_00_s9101 k20x8_d2x10_a3_h4, modes 697
+RCWA attempt 1 blind_new_combo_00_s9101: 'Failed to evaluate code'
+RCWA fine_blind_test blind_new_combo_00_s9101 k20x8_d2x10_a3_h4, modes 697
+Saved blind_new_combo_00_s9101 k20x8_d2x10_a3_h4 in 839.7 s
+RCWA fine_blind_test blind_new_combo_00_s9101 k20x16_d2x10_a3_h4, modes 1353

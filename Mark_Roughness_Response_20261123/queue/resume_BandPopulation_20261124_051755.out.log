@@ -1,0 +1,2 @@
+Worker 17428 .\design.py bands --threads 5
+Worker exit code 0

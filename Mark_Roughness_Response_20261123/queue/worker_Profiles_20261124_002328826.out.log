@@ -1,0 +1,20 @@
+Waiting for a study RCWA worker slot
+height: next 8 cases, queue log height_16896.jsonl
+RCWA height_kernel hmode_r0.5_cp_n4_t+1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_cp_n4_t+1 k5x3_d4x20_a3_h4 in 5.6 s
+RCWA height_kernel hmode_r0.5_cp_n4_t-1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_cp_n4_t-1 k5x3_d4x20_a3_h4 in 5.6 s
+RCWA height_kernel hmode_r0.5_cm_n4_t+1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_cm_n4_t+1 k10x3_d4x20_a3_h4 in 17.7 s
+RCWA height_kernel hmode_r0.5_cm_n4_t-1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_cm_n4_t-1 k10x3_d4x20_a3_h4 in 16.7 s
+RCWA height_kernel hmode_r0.5_wp_n4_t+1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_wp_n4_t+1 k5x3_d4x20_a3_h4 in 5.7 s
+RCWA height_kernel hmode_r0.5_wp_n4_t-1 k5x3_d4x20_a3_h4, modes 77
+Saved hmode_r0.5_wp_n4_t-1 k5x3_d4x20_a3_h4 in 7.3 s
+RCWA height_kernel hmode_r0.5_wm_n4_t+1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_wm_n4_t+1 k10x3_d4x20_a3_h4 in 15.7 s
+RCWA height_kernel hmode_r0.5_wm_n4_t-1 k10x3_d4x20_a3_h4, modes 147
+Saved hmode_r0.5_wm_n4_t-1 k10x3_d4x20_a3_h4 in 17.4 s
+height: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot

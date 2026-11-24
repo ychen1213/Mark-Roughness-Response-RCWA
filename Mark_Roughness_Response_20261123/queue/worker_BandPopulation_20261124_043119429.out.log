@@ -1,0 +1,80 @@
+bands: next 8 cases, queue log bands_6736.jsonl
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+RCWA nested_band_screen band_1_s3547_b0.1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s3547_b0.1 k10x8_d4x3.125_a3_h4 in 92.2 s
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+RCWA nested_band_screen band_1_s3547_b0.2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s3547_b0.2 k10x8_d4x3.125_a3_h4 in 86.0 s
+RCWA nested_band_screen band_1_s3547_b0.5 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s3547_b0.5 k10x8_d4x3.125_a3_h4 in 86.1 s
+RCWA nested_band_screen band_1_s3547_b1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s3547_b1 k10x8_d4x3.125_a3_h4 in 88.1 s
+RCWA nested_band_screen band_1_s3547_b2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s3547_b2 k10x8_d4x3.125_a3_h4 in 96.5 s
+RCWA nested_band_screen band_2_s3547_b0.05 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_2_s3547_b0.05 k10x8_d4x3.125_a3_h4 in 87.7 s
+RCWA nested_band_screen band_2_s3547_b0.1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_2_s3547_b0.1 k10x8_d4x3.125_a3_h4 in 88.5 s
+RCWA nested_band_screen band_2_s3547_b0.2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_2_s3547_b0.2 k10x8_d4x3.125_a3_h4 in 85.8 s
+RCWA nested_band_screen band_2_s3547_b0.5 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_2_s3547_b0.5 k10x8_d4x3.125_a3_h4 in 95.5 s
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+RCWA nested_band_screen band_2_s3547_b1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_2_s3547_b1 k10x8_d4x3.125_a3_h4 in 86.8 s
+RCWA nested_band_screen band_2_s3547_b2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_2_s3547_b2 k10x8_d4x3.125_a3_h4 in 85.5 s
+RCWA nested_band_screen band_3_s3547_b0.05 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_3_s3547_b0.05 k10x8_d4x3.125_a3_h4 in 92.0 s
+RCWA nested_band_screen band_3_s3547_b0.1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_3_s3547_b0.1 k10x8_d4x3.125_a3_h4 in 86.1 s
+RCWA nested_band_screen band_3_s3547_b0.2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_3_s3547_b0.2 k10x8_d4x3.125_a3_h4 in 82.8 s
+RCWA nested_band_screen band_3_s3547_b0.5 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_3_s3547_b0.5 k10x8_d4x3.125_a3_h4 in 91.6 s
+RCWA nested_band_screen band_3_s3547_b1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_3_s3547_b1 k10x8_d4x3.125_a3_h4 in 81.0 s
+RCWA nested_band_screen band_3_s3547_b2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_3_s3547_b2 k10x8_d4x3.125_a3_h4 in 81.6 s
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+RCWA nested_band_screen band_0_s4639_b0.05 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s4639_b0.05 k10x8_d4x3.125_a3_h4 in 86.0 s
+RCWA nested_band_screen band_0_s4639_b0.1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s4639_b0.1 k10x8_d4x3.125_a3_h4 in 87.9 s
+RCWA nested_band_screen band_0_s4639_b0.2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s4639_b0.2 k10x8_d4x3.125_a3_h4 in 88.0 s
+RCWA nested_band_screen band_0_s4639_b0.5 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s4639_b0.5 k10x8_d4x3.125_a3_h4 in 87.0 s
+RCWA nested_band_screen band_0_s4639_b1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s4639_b1 k10x8_d4x3.125_a3_h4 in 93.5 s
+RCWA nested_band_screen band_0_s4639_b2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_0_s4639_b2 k10x8_d4x3.125_a3_h4 in 92.0 s
+RCWA nested_band_screen band_1_s4639_b0.05 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s4639_b0.05 k10x8_d4x3.125_a3_h4 in 89.9 s
+RCWA nested_band_screen band_1_s4639_b0.1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s4639_b0.1 k10x8_d4x3.125_a3_h4 in 88.0 s
+bands: complete, 0 cases unavailable
+bands: next 8 cases, queue log bands_6736.jsonl
+RCWA nested_band_screen band_1_s4639_b0.2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s4639_b0.2 k10x8_d4x3.125_a3_h4 in 90.4 s
+RCWA nested_band_screen band_1_s4639_b0.5 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s4639_b0.5 k10x8_d4x3.125_a3_h4 in 91.9 s
+RCWA nested_band_screen band_1_s4639_b1 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s4639_b1 k10x8_d4x3.125_a3_h4 in 96.1 s
+RCWA nested_band_screen band_1_s4639_b2 k10x8_d4x3.125_a3_h4, modes 357
+Saved band_1_s4639_b2 k10x8_d4x3.125_a3_h4 in 92.1 s
+RCWA nested_band_screen band_2_s4639_b0.05 k10x8_d4x3.125_a3_h4, modes 357

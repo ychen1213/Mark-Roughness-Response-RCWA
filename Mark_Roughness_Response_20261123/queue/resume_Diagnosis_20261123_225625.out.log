@@ -1,0 +1,7 @@
+Waiting for a study RCWA worker slot
+blind_diagnosis: 11 cases, queue log blind_diagnosis_30100.jsonl
+RCWA blind_resolution_diagnosis blind_new_combo_05_s9221 k20x8_d4x20_a3_h4, modes 697
+RCWA attempt 1 blind_new_combo_05_s9221: 'Failed to evaluate code'
+RCWA blind_resolution_diagnosis blind_new_combo_05_s9221 k20x8_d4x20_a3_h4, modes 697
+Saved blind_new_combo_05_s9221 k20x8_d4x20_a3_h4 in 357.5 s
+blind_diagnosis: complete, 0 cases unavailable

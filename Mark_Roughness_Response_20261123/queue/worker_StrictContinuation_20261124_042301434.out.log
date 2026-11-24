@@ -1,0 +1,38 @@
+Waiting for a study RCWA worker slot
+strict_bands: next 1 cases, queue log strict_bands_27720.jsonl
+RCWA random_band_refinement_ref smooth_l8_u2 k20x1_d4x3.125_a3_h4, modes 123
+Saved smooth_l8_u2 k20x1_d4x3.125_a3_h4 in 60.6 s
+strict_bands: complete, 0 cases unavailable
+strict_bands: next 1 cases, queue log strict_bands_27720.jsonl
+RCWA random_band_refinement qual_band_s1427_b0.05 k20x8_d4x3.125_a3_h4, modes 697
+Saved qual_band_s1427_b0.05 k20x8_d4x3.125_a3_h4 in 282.5 s
+strict_bands: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+strict_bands: next 1 cases, queue log strict_bands_27720.jsonl
+RCWA random_band_refinement qual_band_s1427_b0.5 k20x8_d4x3.125_a3_h4, modes 697
+Saved qual_band_s1427_b0.5 k20x8_d4x3.125_a3_h4 in 295.2 s
+strict_bands: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+strict_bands: next 1 cases, queue log strict_bands_27720.jsonl
+RCWA random_band_refinement qual_band_s1427_b1 k20x8_d4x3.125_a3_h4, modes 697
+Saved qual_band_s1427_b1 k20x8_d4x3.125_a3_h4 in 284.2 s
+strict_bands: complete, 0 cases unavailable
+strict_bands: next 1 cases, queue log strict_bands_27720.jsonl
+RCWA random_band_refinement_ref smooth_l8_u2 k10x1_d4x3.125_a3_h4, modes 63
+Saved smooth_l8_u2 k10x1_d4x3.125_a3_h4 in 57.1 s
+strict_bands: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+strict_bands: next 1 cases, queue log strict_bands_27720.jsonl
+RCWA random_band_refinement qual_band_s1427_b0.05 k10x16_d4x3.125_a3_h4, modes 693
+Saved qual_band_s1427_b0.05 k10x16_d4x3.125_a3_h4 in 292.4 s
+strict_bands: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+strict_bands: next 1 cases, queue log strict_bands_27720.jsonl
+RCWA random_band_refinement qual_band_s1427_b0.5 k10x16_d4x3.125_a3_h4, modes 693
+Saved qual_band_s1427_b0.5 k10x16_d4x3.125_a3_h4 in 288.4 s
+strict_bands: complete, 0 cases unavailable
+Waiting for a study RCWA worker slot
+strict_bands: next 1 cases, queue log strict_bands_27720.jsonl
+RCWA random_band_refinement qual_band_s1427_b1 k10x16_d4x3.125_a3_h4, modes 693
+Saved qual_band_s1427_b1 k10x16_d4x3.125_a3_h4 in 282.5 s
+strict_bands: complete, 0 cases unavailable

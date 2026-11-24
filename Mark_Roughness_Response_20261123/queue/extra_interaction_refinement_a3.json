@@ -1,0 +1,212 @@
+[
+  {
+    "case": "reference_u2",
+    "folder": "runs\\reference_u2\\k20x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "interaction_refinement_reference",
+    "settings": "k20x1_d4x20_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2_cd-40_h300_a90_s0_f0",
+    "folder": "runs\\smooth_l8_u2_cd-40_h300_a90_s0_f0\\k20x1_d4x20_a3_h4",
+    "hash": "d42c41a999231348c5dba5ce8d11f78b84557b6dae3219bbb911f7b3d87d6340",
+    "group": "interaction_refinement_reference",
+    "settings": "k20x1_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_0_r5_s1427",
+    "folder": "runs\\profile_cd_nm_0_r5_s1427\\k20x8_d4x20_a3_h4",
+    "hash": "e4dba438fe57dd4f50357383cd9a23d1bd5baa18c2e08a139bc82474a7fb77c1",
+    "group": "profile_refinement",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_0_r20_s1427",
+    "folder": "runs\\profile_cd_nm_0_r20_s1427\\k20x8_d4x20_a3_h4",
+    "hash": "911a44cab06b0bd0b952118da007ad4a19fa44c523e46f686691028b2afea2a0",
+    "group": "profile_refinement",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2_cd40_h300_a90_s0_f0",
+    "folder": "runs\\smooth_l8_u2_cd40_h300_a90_s0_f0\\k20x1_d4x20_a3_h4",
+    "hash": "87b0c628e0de9912805cd0ea1d1bbe834320e19975ecd18bbb0299f8ede4422d",
+    "group": "interaction_refinement_reference",
+    "settings": "k20x1_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_1_r5_s1427",
+    "folder": "runs\\profile_cd_nm_1_r5_s1427\\k20x8_d4x20_a3_h4",
+    "hash": "0d788591113ce6322275e256a6a4d4fb44ab72c505b1fd5d418fc14041332c6d",
+    "group": "profile_refinement",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_1_r20_s1427",
+    "folder": "runs\\profile_cd_nm_1_r20_s1427\\k20x8_d4x20_a3_h4",
+    "hash": "0843f4a800a90bff0555cbbc63a9d5be057ce83683c2a24bc27634c7c9d2a348",
+    "group": "profile_refinement",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_00_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_00_s1427\\k20x8_d4x20_a3_h4",
+    "hash": "45efe796ed5d709a6ea907a40632fae96197296c865d0d53ddb2467ea06d2d34",
+    "group": "factor_refinement",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_10_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_10_s1427\\k20x8_d4x20_a3_h4",
+    "hash": "439480812fb37eefce7f2948df23f7582747a0140ca74a17f2a9806f7db105bd",
+    "group": "factor_refinement",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_01_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_01_s1427\\k20x8_d4x20_a3_h4",
+    "hash": "2e8f670f582e8ceaa9254d5f82b4563947c04c60b9d71fb4d457cd9bbca98b6a",
+    "group": "factor_refinement",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_11_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_11_s1427\\k20x8_d4x20_a3_h4",
+    "hash": "9758c90109be5021156cdf4bb40cf2772b49b87a2f9111355c5f8ba9a4d3a902",
+    "group": "factor_refinement",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "reference_u2",
+    "folder": "runs\\reference_u2\\k10x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "interaction_refinement_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2_cd-40_h300_a90_s0_f0",
+    "folder": "runs\\smooth_l8_u2_cd-40_h300_a90_s0_f0\\k10x1_d4x20_a3_h4",
+    "hash": "d42c41a999231348c5dba5ce8d11f78b84557b6dae3219bbb911f7b3d87d6340",
+    "group": "interaction_refinement_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_0_r5_s1427",
+    "folder": "runs\\profile_cd_nm_0_r5_s1427\\k10x16_d4x20_a3_h4",
+    "hash": "e4dba438fe57dd4f50357383cd9a23d1bd5baa18c2e08a139bc82474a7fb77c1",
+    "group": "profile_refinement",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_0_r20_s1427",
+    "folder": "runs\\profile_cd_nm_0_r20_s1427\\k10x16_d4x20_a3_h4",
+    "hash": "911a44cab06b0bd0b952118da007ad4a19fa44c523e46f686691028b2afea2a0",
+    "group": "profile_refinement",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2_cd40_h300_a90_s0_f0",
+    "folder": "runs\\smooth_l8_u2_cd40_h300_a90_s0_f0\\k10x1_d4x20_a3_h4",
+    "hash": "87b0c628e0de9912805cd0ea1d1bbe834320e19975ecd18bbb0299f8ede4422d",
+    "group": "interaction_refinement_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_1_r5_s1427",
+    "folder": "runs\\profile_cd_nm_1_r5_s1427\\k10x16_d4x20_a3_h4",
+    "hash": "0d788591113ce6322275e256a6a4d4fb44ab72c505b1fd5d418fc14041332c6d",
+    "group": "profile_refinement",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_1_r20_s1427",
+    "folder": "runs\\profile_cd_nm_1_r20_s1427\\k10x16_d4x20_a3_h4",
+    "hash": "0843f4a800a90bff0555cbbc63a9d5be057ce83683c2a24bc27634c7c9d2a348",
+    "group": "profile_refinement",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_00_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_00_s1427\\k10x16_d4x20_a3_h4",
+    "hash": "45efe796ed5d709a6ea907a40632fae96197296c865d0d53ddb2467ea06d2d34",
+    "group": "factor_refinement",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_10_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_10_s1427\\k10x16_d4x20_a3_h4",
+    "hash": "439480812fb37eefce7f2948df23f7582747a0140ca74a17f2a9806f7db105bd",
+    "group": "factor_refinement",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_01_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_01_s1427\\k10x16_d4x20_a3_h4",
+    "hash": "2e8f670f582e8ceaa9254d5f82b4563947c04c60b9d71fb4d457cd9bbca98b6a",
+    "group": "factor_refinement",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_11_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_11_s1427\\k10x16_d4x20_a3_h4",
+    "hash": "9758c90109be5021156cdf4bb40cf2772b49b87a2f9111355c5f8ba9a4d3a902",
+    "group": "factor_refinement",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_0_r5_s1427",
+    "folder": "runs\\profile_cd_nm_0_r5_s1427\\k20x16_d4x20_a3_h4",
+    "hash": "e4dba438fe57dd4f50357383cd9a23d1bd5baa18c2e08a139bc82474a7fb77c1",
+    "group": "profile_refinement",
+    "settings": "k20x16_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_0_r20_s1427",
+    "folder": "runs\\profile_cd_nm_0_r20_s1427\\k20x16_d4x20_a3_h4",
+    "hash": "911a44cab06b0bd0b952118da007ad4a19fa44c523e46f686691028b2afea2a0",
+    "group": "profile_refinement",
+    "settings": "k20x16_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_1_r5_s1427",
+    "folder": "runs\\profile_cd_nm_1_r5_s1427\\k20x16_d4x20_a3_h4",
+    "hash": "0d788591113ce6322275e256a6a4d4fb44ab72c505b1fd5d418fc14041332c6d",
+    "group": "profile_refinement",
+    "settings": "k20x16_d4x20_a3_h4"
+  },
+  {
+    "case": "profile_cd_nm_1_r20_s1427",
+    "folder": "runs\\profile_cd_nm_1_r20_s1427\\k20x16_d4x20_a3_h4",
+    "hash": "0843f4a800a90bff0555cbbc63a9d5be057ce83683c2a24bc27634c7c9d2a348",
+    "group": "profile_refinement",
+    "settings": "k20x16_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_00_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_00_s1427\\k20x16_d4x20_a3_h4",
+    "hash": "45efe796ed5d709a6ea907a40632fae96197296c865d0d53ddb2467ea06d2d34",
+    "group": "factor_refinement",
+    "settings": "k20x16_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_10_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_10_s1427\\k20x16_d4x20_a3_h4",
+    "hash": "439480812fb37eefce7f2948df23f7582747a0140ca74a17f2a9806f7db105bd",
+    "group": "factor_refinement",
+    "settings": "k20x16_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_01_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_01_s1427\\k20x16_d4x20_a3_h4",
+    "hash": "2e8f670f582e8ceaa9254d5f82b4563947c04c60b9d71fb4d457cd9bbca98b6a",
+    "group": "factor_refinement",
+    "settings": "k20x16_d4x20_a3_h4"
+  },
+  {
+    "case": "factor_sigma_nm_rho_lr_11_s1427",
+    "folder": "runs\\factor_sigma_nm_rho_lr_11_s1427\\k20x16_d4x20_a3_h4",
+    "hash": "9758c90109be5021156cdf4bb40cf2772b49b87a2f9111355c5f8ba9a4d3a902",
+    "group": "factor_refinement",
+    "settings": "k20x16_d4x20_a3_h4"
+  }
+]

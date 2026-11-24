@@ -1,0 +1,86 @@
+[
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k20x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "policy_reference",
+    "settings": "k20x1_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24322",
+    "folder": "runs\\omit_04_s24322\\k20x8_d4x20_a3_h4",
+    "hash": "c8c19e269f5e680d07df565d97adaa924fdc18a17f37c0881491b1b1387584e3",
+    "group": "policy_direct",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24322_center",
+    "folder": "runs\\omit_04_s24322_center\\k20x8_d4x20_a3_h4",
+    "hash": "b6ca38af272602ced8f4ae2db367e5b23b0b4359362e6000565ad29c380bce2d",
+    "group": "policy_direct",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24319",
+    "folder": "runs\\omit_04_s24319\\k20x8_d4x20_a3_h4",
+    "hash": "133e6ec6e8d2e50598a927a341d9addf17676f8cd64ce63d45976f0c7e48f3b3",
+    "group": "policy_direct",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24319_width",
+    "folder": "runs\\omit_04_s24319_width\\k20x8_d4x20_a3_h4",
+    "hash": "8fdd51a18373df812b7c036dbd548f8a553ebc06fe8e9464954b419b322743d7",
+    "group": "policy_direct",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24319_rms",
+    "folder": "runs\\omit_04_s24319_rms\\k20x8_d4x20_a3_h4",
+    "hash": "2d008866e280e9798d258671f29202c56ddc3b7c656ae7d4d7323f15e112a18b",
+    "group": "policy_direct",
+    "settings": "k20x8_d4x20_a3_h4"
+  },
+  {
+    "case": "smooth_l8_u2",
+    "folder": "runs\\smooth_l8_u2\\k10x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "policy_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24322",
+    "folder": "runs\\omit_04_s24322\\k10x16_d4x20_a3_h4",
+    "hash": "c8c19e269f5e680d07df565d97adaa924fdc18a17f37c0881491b1b1387584e3",
+    "group": "policy_direct",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24322_center",
+    "folder": "runs\\omit_04_s24322_center\\k10x16_d4x20_a3_h4",
+    "hash": "b6ca38af272602ced8f4ae2db367e5b23b0b4359362e6000565ad29c380bce2d",
+    "group": "policy_direct",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24319",
+    "folder": "runs\\omit_04_s24319\\k10x16_d4x20_a3_h4",
+    "hash": "133e6ec6e8d2e50598a927a341d9addf17676f8cd64ce63d45976f0c7e48f3b3",
+    "group": "policy_direct",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24319_width",
+    "folder": "runs\\omit_04_s24319_width\\k10x16_d4x20_a3_h4",
+    "hash": "8fdd51a18373df812b7c036dbd548f8a553ebc06fe8e9464954b419b322743d7",
+    "group": "policy_direct",
+    "settings": "k10x16_d4x20_a3_h4"
+  },
+  {
+    "case": "omit_04_s24319_rms",
+    "folder": "runs\\omit_04_s24319_rms\\k10x16_d4x20_a3_h4",
+    "hash": "2d008866e280e9798d258671f29202c56ddc3b7c656ae7d4d7323f15e112a18b",
+    "group": "policy_direct",
+    "settings": "k10x16_d4x20_a3_h4"
+  }
+]

@@ -1,0 +1,13 @@
+Waiting for a study RCWA worker slot
+blind_x_continuation: next 5 cases, queue log blind_x_continuation_44664.jsonl
+RCWA blind_resolution_reference smooth_l8_u2 k40x1_d4x20_a3_h4, modes 243
+Saved smooth_l8_u2 k40x1_d4x20_a3_h4 in 28.3 s
+RCWA blind_resolution_diagnosis blind_new_combo_05_s9221 k40x4_d4x20_a3_h4, modes 729
+Saved blind_new_combo_05_s9221 k40x4_d4x20_a3_h4 in 374.7 s
+RCWA blind_resolution_reference smooth_l8_u2 k50x1_d4x20_a3_h4, modes 303
+Saved smooth_l8_u2 k50x1_d4x20_a3_h4 in 41.7 s
+RCWA blind_resolution_diagnosis blind_new_combo_05_s9221 k50x4_d4x20_a3_h4, modes 909
+Saved blind_new_combo_05_s9221 k50x4_d4x20_a3_h4 in 719.2 s
+RCWA blind_resolution_diagnosis blind_new_combo_05_s9221 k40x8_d4x20_a3_h4, modes 1377
+Saved blind_new_combo_05_s9221 k40x8_d4x20_a3_h4 in 2383.7 s
+blind_x_continuation: complete, 0 cases unavailable

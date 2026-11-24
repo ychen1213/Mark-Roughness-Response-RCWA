@@ -1,0 +1,1542 @@
+[
+  {
+    "case": "pbase_cd_nm_0_u1",
+    "folder": "runs\\pbase_cd_nm_0_u1\\k5x1_d4x20_a3_h4",
+    "hash": "d713b7701d34227812dd8616912c0ebf3b2fd4df8d29177adf5c048a2243d0d8",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_cd_nm_0_u2",
+    "folder": "runs\\pbase_cd_nm_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "d42c41a999231348c5dba5ce8d11f78b84557b6dae3219bbb911f7b3d87d6340",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cp_n4",
+    "folder": "runs\\pmode_cd_nm_0_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "215c61399bbfaaf9de716ab3a0bd103bca4a12edfbcafe57cc9c09b79143c014",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cm_n4",
+    "folder": "runs\\pmode_cd_nm_0_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "ea7bb47272c8e7456fbcb6361fe68ab3c0ed0faa60e9cd6bfce7d5d0be818183",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wp_n4",
+    "folder": "runs\\pmode_cd_nm_0_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "619596b2e13a66f8f59bbcad0373d79a3438854c1d481286ac45351461525f83",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wm_n4",
+    "folder": "runs\\pmode_cd_nm_0_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "5b112b4c9d14cd38b9e4f85a2a1c110b636ee518f2cc5370ffb1c63b77c3876d",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cp_n8",
+    "folder": "runs\\pmode_cd_nm_0_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "45efb12c11c4392e4f788536a4960ba98e9a2ea8f5be9d2beb2c812a58680f1e",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cm_n8",
+    "folder": "runs\\pmode_cd_nm_0_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "7901be0ba28a0ef2974008df6f00acf68c075b03ef4c834a5df8bbf2615e970a",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wp_n8",
+    "folder": "runs\\pmode_cd_nm_0_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "d74c7108c363dc8c0721882d8a3a0a769e7e962ca7c25918a6eb05e49c6100c3",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wm_n8",
+    "folder": "runs\\pmode_cd_nm_0_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "c222a2e5172e7d1c27bfd847a9b3b48a9a5976c938ae8ca83d4e886bd4b31644",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cp_n2",
+    "folder": "runs\\pmode_cd_nm_0_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "83ae886745b4c592d8577ab52a08834eae719b14dc96acb0ad0ef8efb39fa677",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cm_n2",
+    "folder": "runs\\pmode_cd_nm_0_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "e65da47fa91467b48883d44ddcd73c3932aebe931dbc4d1e2c70c894041ecaaa",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wp_n2",
+    "folder": "runs\\pmode_cd_nm_0_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "757964f0fe550738d6ad75bb8924bc9e5d26589faa18908a339165f437df712c",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wm_n2",
+    "folder": "runs\\pmode_cd_nm_0_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "d47cec74d35056cfdc3352f4972360659d39b4ada0b1592dbeb3366b1a6588c1",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cp_n1",
+    "folder": "runs\\pmode_cd_nm_0_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "a2c314fe1928f585eb46618188556afe997b685c42faac0ae176e536472a2e32",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cm_n1",
+    "folder": "runs\\pmode_cd_nm_0_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "96105692264d30db64f9128be94086b46e0a7e711f1a40e20199f605b49e3aa4",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wp_n1",
+    "folder": "runs\\pmode_cd_nm_0_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "b16456f256956c3ffa442d31dd9ab0129366405dac3a1d2a3972e08195c1fd4b",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wm_n1",
+    "folder": "runs\\pmode_cd_nm_0_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "963aaa6d376fe250e78cb8116c59def53676054aa93a216237d9ae26851be462",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cp_n16",
+    "folder": "runs\\pmode_cd_nm_0_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "7d87b6b1a850c68c6a7f0ffda6ca2dd48da38d3ff7bcd71ca02b32c3c3b6f3b5",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_cm_n16",
+    "folder": "runs\\pmode_cd_nm_0_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "6d87f98740acc3d0af087294961d11a6edee8f69487ee3d232b3165aa231c1f6",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wp_n16",
+    "folder": "runs\\pmode_cd_nm_0_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "8bc00c99ce99bf9040ad5e031c008608bf5b68f43f94ec7cbb3d0a8a15d0d93b",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_0_wm_n16",
+    "folder": "runs\\pmode_cd_nm_0_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "ad436bd59c525636b0aa9fa00a5c9c385ee3e445818c0a341c28581fa69fb630",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_cd_nm_1_u1",
+    "folder": "runs\\pbase_cd_nm_1_u1\\k5x1_d4x20_a3_h4",
+    "hash": "b6dbf3530e12a8367255c4f3edbd634e18b7d6d28aa1d9332af9b401a49e89b2",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_cd_nm_1_u2",
+    "folder": "runs\\pbase_cd_nm_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "87b0c628e0de9912805cd0ea1d1bbe834320e19975ecd18bbb0299f8ede4422d",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cp_n4",
+    "folder": "runs\\pmode_cd_nm_1_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "156c4a229ffe3a2028d9dc7c3a870ca89f8f6cd4d05b399c58810a9e877d6de3",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cm_n4",
+    "folder": "runs\\pmode_cd_nm_1_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "9dabb85b030ea56a84841c8391c8a74e2db55ef33e55b6507738ece92f77959f",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wp_n4",
+    "folder": "runs\\pmode_cd_nm_1_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "041c3b24c63e1e3ee732b5ee955f180efb8d80b1416823a0cb960a27a01581ec",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wm_n4",
+    "folder": "runs\\pmode_cd_nm_1_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "ff232341bb6b0c0b24ea4e5c9113ffc64a69cfcf4f1a3cc8eba42b8149314f0f",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cp_n8",
+    "folder": "runs\\pmode_cd_nm_1_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "e84e70e9c5606c6d2300b776b099d9624ef78d10225ba902b000468d69a0fc88",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cm_n8",
+    "folder": "runs\\pmode_cd_nm_1_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "c14d4df0884a2e0cfb59cefc0c1256111968356f2958a7e68b7f5dc1cf74f89a",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wp_n8",
+    "folder": "runs\\pmode_cd_nm_1_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "9792bdf124d8ebf5f0994ad868d739b3306abd12a4edc74136b635fe9ae3d36b",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wm_n8",
+    "folder": "runs\\pmode_cd_nm_1_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "15db593fb160a7ea07fc4f3f745da358a17bc373e86d447b28e0ca923a760e44",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cp_n2",
+    "folder": "runs\\pmode_cd_nm_1_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "9db6c19ab13a89d81fc99ecbc4a47047aa40d44ebe3d6a12a6e5d0482199973f",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cm_n2",
+    "folder": "runs\\pmode_cd_nm_1_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "9cb1642112a05312a0d655c49356416486839ec3c996859299bea31222227fe7",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wp_n2",
+    "folder": "runs\\pmode_cd_nm_1_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "a423e17998b2d13e930cea61b29cef2cbbe272bb5f4bfce6565a079ab63ae357",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wm_n2",
+    "folder": "runs\\pmode_cd_nm_1_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "dd8dfbef2dad1dd788e04ae825978db18e3f42698134435851dab1ed6e42f00a",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cp_n1",
+    "folder": "runs\\pmode_cd_nm_1_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "cdc87bac6873483a0a90733eaa86d359d641f809d9d7879a6dfe393bb430a49b",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cm_n1",
+    "folder": "runs\\pmode_cd_nm_1_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "4b5cb9846b88e90b9c284dcf557ac560a98d45011d6ee66380181fb4dedc54f2",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wp_n1",
+    "folder": "runs\\pmode_cd_nm_1_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "b39ce60d7b38ccdcc3beb0b2bb0e097084708b72fa4d9fdd6fa696cfa0f0cf8d",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wm_n1",
+    "folder": "runs\\pmode_cd_nm_1_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "edbee95def66969e542c0f910171c0ec0e21a2b679681461d5eda0a6c2e4616e",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cp_n16",
+    "folder": "runs\\pmode_cd_nm_1_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "f6ca27a667687e268956dbfbf8f3d9acd01febc4a58728a41ec290fb707d562b",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_cm_n16",
+    "folder": "runs\\pmode_cd_nm_1_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "0cac2a7d1aa256dea4972abebc59cf8ed3ac57295047152589d6aac350d1bf64",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wp_n16",
+    "folder": "runs\\pmode_cd_nm_1_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "619cbb10b96e6fb2eb3753d0020228ecf68f4fad220a1c61dd6203f5c4bddae6",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_cd_nm_1_wm_n16",
+    "folder": "runs\\pmode_cd_nm_1_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "6ba585c4db4d74e739e2cbc57d6d302b2223cff189e07f4dfabc2b9d9ec11c0e",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_height_nm_0_u1",
+    "folder": "runs\\pbase_height_nm_0_u1\\k5x1_d4x20_a3_h4",
+    "hash": "90fdc544535d4f3d7b7e2022dfa82c6e62b4def04eadb76e9cf1c21f8f2d161f",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_height_nm_0_u2",
+    "folder": "runs\\pbase_height_nm_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "e075f0c9fcb438db794d2900da22f2d5b73243e73288e796c4d237ee6657f16d",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cp_n4",
+    "folder": "runs\\pmode_height_nm_0_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "c7bfe309c469f0be681d8d392fe4f421da3ce00251f0011a76d95a02b024a6bb",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cm_n4",
+    "folder": "runs\\pmode_height_nm_0_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "03650e56b20f08c53df50bc200ba547cce4d089ca67ed7c11550b124ccdf8e47",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wp_n4",
+    "folder": "runs\\pmode_height_nm_0_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "644932b206dfa99f35f63fe186b7389c3f604da52f6e80253bb9fa68702c82f1",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wm_n4",
+    "folder": "runs\\pmode_height_nm_0_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "e853e11f7bdef5728a6abfe202959088f0a7ebed8cf6fdaf6200189baeee3d27",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cp_n8",
+    "folder": "runs\\pmode_height_nm_0_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "70959d491bb80f166618439781c61393d924537bc4563bd8cdb06d8e355eaeab",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cm_n8",
+    "folder": "runs\\pmode_height_nm_0_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "d32a5d911799b2a7db1ec85ecaf4f591e35b05e4051b28ef480eae1e831c8c0a",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wp_n8",
+    "folder": "runs\\pmode_height_nm_0_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "add64b18fdc2a98f631c51e5fc0965efc348546c949c9e911af026d3c14b1110",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wm_n8",
+    "folder": "runs\\pmode_height_nm_0_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "ee34a6ad86a0dd8f729ebac1875479bb779d0a6f31716cca122eeb4c72f7c032",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cp_n2",
+    "folder": "runs\\pmode_height_nm_0_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "1d682260f6723a69bdefb43a86967af471ec7a819b5bb6e78b178a56d6620408",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cm_n2",
+    "folder": "runs\\pmode_height_nm_0_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "8bc316ac9edb0b7d9fe5be7153f49a57b5dc1a8d9e6c956e5d66a65a625a0263",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wp_n2",
+    "folder": "runs\\pmode_height_nm_0_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "9d6c538a9452de4052e49a99efc3c763257264c9bfe192173e4aff2692eae2a4",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wm_n2",
+    "folder": "runs\\pmode_height_nm_0_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "b5c281ad36ed0b586b24f8c5917c83e0acec50f262d4f29f4dbcc3b9448c2486",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cp_n1",
+    "folder": "runs\\pmode_height_nm_0_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "5196c65b248c890697850a36139a447c25327094b2929ad057c661661b619991",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cm_n1",
+    "folder": "runs\\pmode_height_nm_0_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "311e3a02ba8ad19c50476c1940a50e9ddb4774433fa42bf4676f1e3b5758c704",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wp_n1",
+    "folder": "runs\\pmode_height_nm_0_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "d4b3c51ee88609d4073cec56519802af62a9070d417cf9a7e42b5cbea72fbed8",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wm_n1",
+    "folder": "runs\\pmode_height_nm_0_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "7220213cff5245798e089a40a65cabbc3c7b2c33b5a852570a1b78796de98789",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cp_n16",
+    "folder": "runs\\pmode_height_nm_0_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "fb1ece20a5bc5222df09399b6c1b2cf715e734b7e11f75d00f22d40dfdbeb86a",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_cm_n16",
+    "folder": "runs\\pmode_height_nm_0_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "414b43995af7c7f8c512e547eddd79ff906b9bc899297d4b477d5fb9e8a5e049",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wp_n16",
+    "folder": "runs\\pmode_height_nm_0_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "2e9deda1a65165c27d0ff572a6e556b84108402c06a4d82275cf8caa379f1894",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_0_wm_n16",
+    "folder": "runs\\pmode_height_nm_0_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "414c4e8a9216867f8fee3408339509381f9238af60f115ff0411abb9950814f2",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_height_nm_1_u1",
+    "folder": "runs\\pbase_height_nm_1_u1\\k5x1_d4x20_a3_h4",
+    "hash": "4e68bad0a22da73dd1b61cd669b96608255070eab9835fd5f7cee5ed33ef4ff1",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_height_nm_1_u2",
+    "folder": "runs\\pbase_height_nm_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "2afe4487b2827a9a29a70030fcc8b78a6a1b2a157474072a51bbfeb4a90e889a",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cp_n4",
+    "folder": "runs\\pmode_height_nm_1_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "6d238851ba3ffdaa96a5c7dc1759f8e95d7baa287630d203add20cc69f7e796e",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cm_n4",
+    "folder": "runs\\pmode_height_nm_1_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "2981de4ec5b05c17edc751ff8d58c1c7fcb0581ed3e509b2a815ab0365842650",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wp_n4",
+    "folder": "runs\\pmode_height_nm_1_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "b901944a72a6e091546cf9c6c07de0171c946d1b810fc88a8bf71f0af50dc755",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wm_n4",
+    "folder": "runs\\pmode_height_nm_1_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "c2a684f6643d55073f9e22c306f80124e577699fa7c1add562b2b19be47e3527",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cp_n8",
+    "folder": "runs\\pmode_height_nm_1_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "1c8109ff1725e501b89889f852238b78ec409bdba2dde563aef604fcc623f624",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cm_n8",
+    "folder": "runs\\pmode_height_nm_1_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "74d7c05b257787592015d0c17f9ff02ebc30ae2f3fc17ef2db82bee46352da51",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wp_n8",
+    "folder": "runs\\pmode_height_nm_1_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "300f1bcc45a168718fac391f98f15b91c9ffae7225fb32e4648729636a857b1f",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wm_n8",
+    "folder": "runs\\pmode_height_nm_1_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "d0424a00e87c57fb106df44fd2053918b738df0a6af4b509a9c3cc5054cb9ed2",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cp_n2",
+    "folder": "runs\\pmode_height_nm_1_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "b117ee9300fed624f8c2df4499ac9ebd11b6e3f08f624c8bda10fa219e81845e",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cm_n2",
+    "folder": "runs\\pmode_height_nm_1_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "9b1a75d2ce547523856e60b6fa4fabdba5a722b4a5aad706075ac0aedf25637c",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wp_n2",
+    "folder": "runs\\pmode_height_nm_1_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "96da5c08cf7d1d4c97b36e66c0fc7b7261d9ee0d71e12cb59eb39e2c99c359c6",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wm_n2",
+    "folder": "runs\\pmode_height_nm_1_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "36d1ac87c592b568e07a404869148fbcf08f88846bc752e2fd6c48f5766de81c",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cp_n1",
+    "folder": "runs\\pmode_height_nm_1_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "862c0f397b6df1b153934ebae8d5f88760f8dd8470dfb8ad6c309d6a05103245",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cm_n1",
+    "folder": "runs\\pmode_height_nm_1_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "8953b00342a699c7dd11ef80e70d7d306ba5da70b7ed4abc3300454246fa5ec7",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wp_n1",
+    "folder": "runs\\pmode_height_nm_1_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "c1de7635fbb6f8b59c0610ad9335bb5b7af290579f7b96dc25d188ad76259ac8",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wm_n1",
+    "folder": "runs\\pmode_height_nm_1_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "34260081916f90ed06d9c324716184681a818f4d3c5af71a85f852887b3fec73",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cp_n16",
+    "folder": "runs\\pmode_height_nm_1_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "a05da62cdde5a00d47711b9417328aaf0f3814d600cf717e6da988169de9ae0a",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_cm_n16",
+    "folder": "runs\\pmode_height_nm_1_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "3f533e8ec5ce6f53f645a7b77c7d76cc6a8eab67aa7e2179b25aa89557b0e318",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wp_n16",
+    "folder": "runs\\pmode_height_nm_1_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "a49945a405fa05f45f620ca53c60176d9595fa93c954677f90322e67fbb13c76",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_height_nm_1_wm_n16",
+    "folder": "runs\\pmode_height_nm_1_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "3a78cc94631fa2dca2f494c453fd8d60a482b0b9c6719fe86d13c8a4ca5c9d36",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_swa_deg_0_u1",
+    "folder": "runs\\pbase_swa_deg_0_u1\\k5x1_d4x20_a3_h4",
+    "hash": "7b39d676f18e993867e4ef8fffb9ff321d6210da48c860d73319918bf3a67af6",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_swa_deg_0_u2",
+    "folder": "runs\\pbase_swa_deg_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cp_n4",
+    "folder": "runs\\pmode_swa_deg_0_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "3efa7b5e08d9345fe8d564166255e96f826db5c7c2da11252f5ae6dd023de5b4",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cm_n4",
+    "folder": "runs\\pmode_swa_deg_0_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "4d77981f2a7323c9a6828ab49bb7906d6fde762a9db1e96f8c58286477eb9fde",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wp_n4",
+    "folder": "runs\\pmode_swa_deg_0_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "0b33922c858b43502bed72bbf639a292bb178aeaf80d8aa6c4547e34f8863cde",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wm_n4",
+    "folder": "runs\\pmode_swa_deg_0_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "a11b2ca3e1e3db6be5dc2c6a0caf7d8082daa09643c59edfee9f6b2dd6b5725c",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cp_n8",
+    "folder": "runs\\pmode_swa_deg_0_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "7c8c0aebdd036c513fd7544e514ec3acc5d97ae834040b1e0bb57ff315e0a575",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cm_n8",
+    "folder": "runs\\pmode_swa_deg_0_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "dc57ddc97951382b5431231c86b0867966981c406dac7b5c6b7e9e717d73f4d1",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wp_n8",
+    "folder": "runs\\pmode_swa_deg_0_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "7125801b0ee0f84c45aaa746bdcf5eefc8d52eaad78c8403fa74e94f146e29ef",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wm_n8",
+    "folder": "runs\\pmode_swa_deg_0_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "98a87f126ed93d4fcbb2863fecfd6ccaf86e18afab88c411bae2441ab842af12",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cp_n2",
+    "folder": "runs\\pmode_swa_deg_0_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "c034fbfb71ba5bac5b61372ffd65fa2cc64cdfaf35e5c47989b392c24d0c7db1",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cm_n2",
+    "folder": "runs\\pmode_swa_deg_0_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "45f4ec1b59bc3a256df7e8da1b9af66dbf7f41a124cab2abc530c016c7433519",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wp_n2",
+    "folder": "runs\\pmode_swa_deg_0_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "087c5aa58061001381cc3e9435e2d1d53f8f9cb053ea3da7d0b063c897080d0e",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wm_n2",
+    "folder": "runs\\pmode_swa_deg_0_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "dda9dfb4b4630dfd364c6de6665fecea3ce64d2a9246e4e38a161e30bf48b726",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cp_n1",
+    "folder": "runs\\pmode_swa_deg_0_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "55915a2aa55736173137fab7c42f58add1aecf402a4262e8b701957d24a58995",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cm_n1",
+    "folder": "runs\\pmode_swa_deg_0_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "1a03b0c20e5fdadb82795ffcc202adfcdfafaa68e789e5b267b63e0d14ae3e2f",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wp_n1",
+    "folder": "runs\\pmode_swa_deg_0_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "6574ba73d863b126a134650c2b17fe05ac1eead1ac154b75e41c633a2ee15c46",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wm_n1",
+    "folder": "runs\\pmode_swa_deg_0_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "0ad252b53db551664ed9897a4950acc8ad82b5e0c269205423e4ce721cc48d73",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cp_n16",
+    "folder": "runs\\pmode_swa_deg_0_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "76ef8d37da9e841b3b03e31b6f11a9f55a5e5520551a4be824f0ff3e9d35fd00",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_cm_n16",
+    "folder": "runs\\pmode_swa_deg_0_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "1e620434e3bff7dde85694faa07586b395b1060cc72298beedd3a97af20977c2",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wp_n16",
+    "folder": "runs\\pmode_swa_deg_0_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "c50c1c08a547c7ff4198d992328fa6e2832d3176b63e8ae99eac3c6af19b58bb",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_0_wm_n16",
+    "folder": "runs\\pmode_swa_deg_0_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "146f0231c259b0efaa1ed97463ee64ecd160f144373398aa55cdffdbcbb9fa32",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_swa_deg_1_u1",
+    "folder": "runs\\pbase_swa_deg_1_u1\\k5x1_d4x20_a3_h4",
+    "hash": "d27ab55ba9e8800d6384daed25c72bab5876a9089984b105c97d05adf7d973d5",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_swa_deg_1_u2",
+    "folder": "runs\\pbase_swa_deg_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "88fa7649c41e8dca7c25b7c83950d203cc32ff8c694fb54f655c4819b7e6084f",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cp_n4",
+    "folder": "runs\\pmode_swa_deg_1_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "6ca6bc07abc9f61f780cd68d4d1aafca7557011b9de2d151d2206c4a58d88c3c",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cm_n4",
+    "folder": "runs\\pmode_swa_deg_1_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "42512d7035e22c868e5af94ade6f18c8ae520639ed7c92b733350e9b54c07601",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wp_n4",
+    "folder": "runs\\pmode_swa_deg_1_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "d96e648a8944f360c0972fdcff43e73b0c26f479d174a1b1df76cd9f007b9251",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wm_n4",
+    "folder": "runs\\pmode_swa_deg_1_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "ceba12a4f69eeb6e48a86766a44332d0ecf00c9a2c06d6759e07613f91c7cd37",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cp_n8",
+    "folder": "runs\\pmode_swa_deg_1_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "d7bf9a0fb20a25b7226e5a82e440a408236c4b9771a3a60ed5c8efd45f13b348",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cm_n8",
+    "folder": "runs\\pmode_swa_deg_1_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "a4cac34b544291ace74796b036c7ed47c7ee8dabe00f650a977c5088305126b3",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wp_n8",
+    "folder": "runs\\pmode_swa_deg_1_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "ee3272b433ddb41458cb696d593005e903e232fb99a502fbc2e0ccca38101bad",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wm_n8",
+    "folder": "runs\\pmode_swa_deg_1_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "639ccc09783bdc7196a57a5e67327fb923233c148301b45107f3a4d5f59a0bc6",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cp_n2",
+    "folder": "runs\\pmode_swa_deg_1_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "08ec4169c59d20f6165192a922c83949760e001bddacff848c573e529251134c",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cm_n2",
+    "folder": "runs\\pmode_swa_deg_1_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "dc5fa9311559e0cb298d50cf623ea3cbba22a3c6d1a4fff6386a9c367543f3ca",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wp_n2",
+    "folder": "runs\\pmode_swa_deg_1_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "9691424c92ad0b6625186538cb78f96a54b00bc6d736a7f2721755b92e8ec60e",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wm_n2",
+    "folder": "runs\\pmode_swa_deg_1_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "e81d4cd6803681b2f910cf776980da674d0e09b98d662c20a4530f157bba3e1d",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cp_n1",
+    "folder": "runs\\pmode_swa_deg_1_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "40e222afc11203ad681d5cc052053390f84ff9ed11c3b202005d55425bda1fed",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cm_n1",
+    "folder": "runs\\pmode_swa_deg_1_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "61e61cfdc0ee613779c5076b24cd69b8027f6df88728ea5ddef846febe9392ed",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wp_n1",
+    "folder": "runs\\pmode_swa_deg_1_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "be71112e3ac4c8d6f31b0d63f809665dffef60f03282223f35799f8841e8753a",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wm_n1",
+    "folder": "runs\\pmode_swa_deg_1_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "54235e3376ef962674061a7573ceb694f5884068714142f9f49b68f951b29174",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cp_n16",
+    "folder": "runs\\pmode_swa_deg_1_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "dc30b770934540f2e9835131041c3acb46115efb5a79a9f6052c1211db1d7c57",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_cm_n16",
+    "folder": "runs\\pmode_swa_deg_1_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "66fe251fa1efcc79eead9152135f5ed958b25de6e88ad1b3184a7bd4034b3bce",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wp_n16",
+    "folder": "runs\\pmode_swa_deg_1_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "8c10422ca325509af03934efd6a0f39e56240687952d6610e746ee04d21d5c7f",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_swa_deg_1_wm_n16",
+    "folder": "runs\\pmode_swa_deg_1_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "1da10bcbb52e86343f7c9da2a86edf1c9aeac96f90a4e7223cbf798395cc659d",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_shear_nm_0_u1",
+    "folder": "runs\\pbase_shear_nm_0_u1\\k5x1_d4x20_a3_h4",
+    "hash": "13c5fdfa455d3d07ab5ba47d313fd8d7901b40fc377df301a39154f0b67735c5",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_shear_nm_0_u2",
+    "folder": "runs\\pbase_shear_nm_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "b5b211ec4850459047dd564eaa9132122ec859820110d82ef66ba3ef6a79dafd",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cp_n4",
+    "folder": "runs\\pmode_shear_nm_0_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "524c42807c1b1590f1ded54fa52021691390a39cb040b07a40d1b9732da061ee",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cm_n4",
+    "folder": "runs\\pmode_shear_nm_0_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "f37f9bd98fa1edc1ee31486e34923c1c5439735f03822b54020a636e07e48130",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wp_n4",
+    "folder": "runs\\pmode_shear_nm_0_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "b5073cbeef0fd513408d9c7c9ce1780811a4c31b32ee57e4c47680406d3a4e64",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wm_n4",
+    "folder": "runs\\pmode_shear_nm_0_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "880f32e841a830c55e77c0c5c6bdb27a6be39b401f5c864a09f0927e583c2146",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cp_n8",
+    "folder": "runs\\pmode_shear_nm_0_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "b7092e07652bfcf12d70dbba0ba271034ee12d2ca35c4f356e281caea2599ce4",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cm_n8",
+    "folder": "runs\\pmode_shear_nm_0_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "fea23b140cf8a8c9a8639fcfc8478043f9601722560f8965ae542eb75f677f14",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wp_n8",
+    "folder": "runs\\pmode_shear_nm_0_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "1ea3a74283eb1acbdd47e3a947391b6aafa8ab52a5958298160fc65de517fbf0",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wm_n8",
+    "folder": "runs\\pmode_shear_nm_0_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "2ccadc904e75cfa60442df93f55edb05a0ba63bb9d775062711978a1d05af6a8",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cp_n2",
+    "folder": "runs\\pmode_shear_nm_0_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "655656f767a3493ebd57cd6a90b04921d42c0246b906d8e1c3873ed7e4b64343",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cm_n2",
+    "folder": "runs\\pmode_shear_nm_0_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "5db6e670da6501920191f8dded3cb32c316ddfd52ce68838fdbdb9d4d5163538",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wp_n2",
+    "folder": "runs\\pmode_shear_nm_0_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "e00f2a2c771fb2ad85f7c07c85cc4b0affc36979bc760e055364762caab841c3",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wm_n2",
+    "folder": "runs\\pmode_shear_nm_0_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "46f0fdcf6641db24af0082b1935f7cc145f26fe66e971a4e5072951faea85ec5",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cp_n1",
+    "folder": "runs\\pmode_shear_nm_0_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "df902a482e09c76d7d31277f510538872ed73fbd43f601a4f858de4f78aef09a",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cm_n1",
+    "folder": "runs\\pmode_shear_nm_0_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "f17b51fb0061e51666ff8281ba20dd8624363bd37fb82cd24985dc429d658864",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wp_n1",
+    "folder": "runs\\pmode_shear_nm_0_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "8dbdb0053f4dd5513b06efa117132282b34f7a636962029a9946c8629123fffc",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wm_n1",
+    "folder": "runs\\pmode_shear_nm_0_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "539e90ba089af8210bf286dcbe292d39b904f27b0d76d6839c9314cba091d93a",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cp_n16",
+    "folder": "runs\\pmode_shear_nm_0_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "148dc742151bfd80478c277ca706c740ad1812743b107d6cab64e8ad8305e7aa",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_cm_n16",
+    "folder": "runs\\pmode_shear_nm_0_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "6e3bf78aa192aeb0184890e70ffaf1e3b54b59f58b5366f4723425358c80a1c6",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wp_n16",
+    "folder": "runs\\pmode_shear_nm_0_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "aefded3f8f41030e8577597bb8a4d97c1f3aff02b3d6116691cae7e511311386",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_0_wm_n16",
+    "folder": "runs\\pmode_shear_nm_0_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "d1e8ef87e80476672344234a29abc590bc27e59f1150472a3f2971b5999b02b5",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_shear_nm_1_u1",
+    "folder": "runs\\pbase_shear_nm_1_u1\\k5x1_d4x20_a3_h4",
+    "hash": "ebfbf9872813265b231ab434b711853318ce858a875eae6d546657c2330ff216",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_shear_nm_1_u2",
+    "folder": "runs\\pbase_shear_nm_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "5fa3ebb4eb9dff10d770943a99ebc21f369fa7e523a2e3c56442fbb591b5b8b7",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cp_n4",
+    "folder": "runs\\pmode_shear_nm_1_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "65d251c7520f142885bea8a668b2e842cd2cdeecd130412fbfbebb8bb8b3f35b",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cm_n4",
+    "folder": "runs\\pmode_shear_nm_1_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "a411fe699463916400385ba6d62aa5af0c7187dfbe45fd7580e76f3c17458563",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wp_n4",
+    "folder": "runs\\pmode_shear_nm_1_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "226925726deed05ed64459bd91046aa64c01ac17baa0cbecc8239f26528ba17c",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wm_n4",
+    "folder": "runs\\pmode_shear_nm_1_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "f935db6fa3f22927a040207753e60cb4883819cec180b2542936eeeef8d3c292",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cp_n8",
+    "folder": "runs\\pmode_shear_nm_1_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "e5fc85a956e0295a2f924b155a128d712f0c463df814a01ecc84085b669dda24",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cm_n8",
+    "folder": "runs\\pmode_shear_nm_1_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "8ae86eec612b09844cc47fefc2207c2ab72d9a227686c3a1d0e7fac6229151fb",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wp_n8",
+    "folder": "runs\\pmode_shear_nm_1_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "a5cca682379ba2012f63a4c0ada9f3a960da6f72475962923e9f09640ad81f70",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wm_n8",
+    "folder": "runs\\pmode_shear_nm_1_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "dc4d98d4dea6913cddb9bff792d7eb24dccf6f1844724cb5aca12b02ec2f1726",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cp_n2",
+    "folder": "runs\\pmode_shear_nm_1_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "a2afc873fc7fbe1b976cb02c7fd9dce06110e0803e4591ea3730aca6275ae4b6",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cm_n2",
+    "folder": "runs\\pmode_shear_nm_1_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "814e2c3aa95d8a07a9eedb48c9d6148fd82b6bf3151b7ea9d34df1e5d2e52a4a",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wp_n2",
+    "folder": "runs\\pmode_shear_nm_1_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "229ad1307343f1a462a4090913605fdc33edb4fff056b93bce39152eed8f21d8",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wm_n2",
+    "folder": "runs\\pmode_shear_nm_1_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "b9c42e96b340f956ca68621b66ce20e7ecf36ce9ab701778bf04077f83f56ede",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cp_n1",
+    "folder": "runs\\pmode_shear_nm_1_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "c9208138eea8f1d430ee14afd467ecf34642b666ebc01e7a1b25ed6c1b2900f4",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cm_n1",
+    "folder": "runs\\pmode_shear_nm_1_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "b3e48505eded2c6e0d9413d78ffd1fc6c1cb0cb5757306b50f79a3584da2b888",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wp_n1",
+    "folder": "runs\\pmode_shear_nm_1_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "65642b651025d67af48662635ddac48da63d361a3f84b40625ccff10f0b0271c",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wm_n1",
+    "folder": "runs\\pmode_shear_nm_1_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "2b9822e2016d426cc21c582e1770645478b35b0385033fa8fbcc1b5099038a5c",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cp_n16",
+    "folder": "runs\\pmode_shear_nm_1_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "ba2e528aaf99bacdf94e8860f6960215ea097a69ab12ccd03c3439d3b5009f53",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_cm_n16",
+    "folder": "runs\\pmode_shear_nm_1_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "43dcdb11efb5bc9dec00edc91d3e35c029e98209fb96d1dd55ae412dd62a848b",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wp_n16",
+    "folder": "runs\\pmode_shear_nm_1_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "624de66c9bb209f5e5743e913700c8fc0d963edc8cc08bbe87efb12b5a1c2a52",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_shear_nm_1_wm_n16",
+    "folder": "runs\\pmode_shear_nm_1_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "1f51957d14507a28255115c6a6bfb0123b4f656980b873e90f789afd2a1615f7",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_footing_nm_0_u1",
+    "folder": "runs\\pbase_footing_nm_0_u1\\k5x1_d4x20_a3_h4",
+    "hash": "7b39d676f18e993867e4ef8fffb9ff321d6210da48c860d73319918bf3a67af6",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_footing_nm_0_u2",
+    "folder": "runs\\pbase_footing_nm_0_u2\\k10x1_d4x20_a3_h4",
+    "hash": "4bff5e64e353dbb7de8a98932070097c3bfb71b609f687913c1b298ec8beafb3",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cp_n4",
+    "folder": "runs\\pmode_footing_nm_0_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "3efa7b5e08d9345fe8d564166255e96f826db5c7c2da11252f5ae6dd023de5b4",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cm_n4",
+    "folder": "runs\\pmode_footing_nm_0_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "4d77981f2a7323c9a6828ab49bb7906d6fde762a9db1e96f8c58286477eb9fde",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wp_n4",
+    "folder": "runs\\pmode_footing_nm_0_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "0b33922c858b43502bed72bbf639a292bb178aeaf80d8aa6c4547e34f8863cde",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wm_n4",
+    "folder": "runs\\pmode_footing_nm_0_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "a11b2ca3e1e3db6be5dc2c6a0caf7d8082daa09643c59edfee9f6b2dd6b5725c",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cp_n8",
+    "folder": "runs\\pmode_footing_nm_0_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "7c8c0aebdd036c513fd7544e514ec3acc5d97ae834040b1e0bb57ff315e0a575",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cm_n8",
+    "folder": "runs\\pmode_footing_nm_0_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "dc57ddc97951382b5431231c86b0867966981c406dac7b5c6b7e9e717d73f4d1",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wp_n8",
+    "folder": "runs\\pmode_footing_nm_0_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "7125801b0ee0f84c45aaa746bdcf5eefc8d52eaad78c8403fa74e94f146e29ef",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wm_n8",
+    "folder": "runs\\pmode_footing_nm_0_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "98a87f126ed93d4fcbb2863fecfd6ccaf86e18afab88c411bae2441ab842af12",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cp_n2",
+    "folder": "runs\\pmode_footing_nm_0_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "c034fbfb71ba5bac5b61372ffd65fa2cc64cdfaf35e5c47989b392c24d0c7db1",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cm_n2",
+    "folder": "runs\\pmode_footing_nm_0_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "45f4ec1b59bc3a256df7e8da1b9af66dbf7f41a124cab2abc530c016c7433519",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wp_n2",
+    "folder": "runs\\pmode_footing_nm_0_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "087c5aa58061001381cc3e9435e2d1d53f8f9cb053ea3da7d0b063c897080d0e",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wm_n2",
+    "folder": "runs\\pmode_footing_nm_0_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "dda9dfb4b4630dfd364c6de6665fecea3ce64d2a9246e4e38a161e30bf48b726",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cp_n1",
+    "folder": "runs\\pmode_footing_nm_0_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "55915a2aa55736173137fab7c42f58add1aecf402a4262e8b701957d24a58995",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cm_n1",
+    "folder": "runs\\pmode_footing_nm_0_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "1a03b0c20e5fdadb82795ffcc202adfcdfafaa68e789e5b267b63e0d14ae3e2f",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wp_n1",
+    "folder": "runs\\pmode_footing_nm_0_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "6574ba73d863b126a134650c2b17fe05ac1eead1ac154b75e41c633a2ee15c46",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wm_n1",
+    "folder": "runs\\pmode_footing_nm_0_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "0ad252b53db551664ed9897a4950acc8ad82b5e0c269205423e4ce721cc48d73",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cp_n16",
+    "folder": "runs\\pmode_footing_nm_0_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "76ef8d37da9e841b3b03e31b6f11a9f55a5e5520551a4be824f0ff3e9d35fd00",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_cm_n16",
+    "folder": "runs\\pmode_footing_nm_0_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "1e620434e3bff7dde85694faa07586b395b1060cc72298beedd3a97af20977c2",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wp_n16",
+    "folder": "runs\\pmode_footing_nm_0_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "c50c1c08a547c7ff4198d992328fa6e2832d3176b63e8ae99eac3c6af19b58bb",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_0_wm_n16",
+    "folder": "runs\\pmode_footing_nm_0_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "146f0231c259b0efaa1ed97463ee64ecd160f144373398aa55cdffdbcbb9fa32",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_footing_nm_1_u1",
+    "folder": "runs\\pbase_footing_nm_1_u1\\k5x1_d4x20_a3_h4",
+    "hash": "73d63fb1d927e2e60b3db20176fbbea08330dd8f4f655699f36836434ee41bdf",
+    "group": "profile_reference",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pbase_footing_nm_1_u2",
+    "folder": "runs\\pbase_footing_nm_1_u2\\k10x1_d4x20_a3_h4",
+    "hash": "f0f6970bba35376a559d64daa10e7435a2bd7a8c0b18b71e0b6a283ebae3b4e0",
+    "group": "profile_reference",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cp_n4",
+    "folder": "runs\\pmode_footing_nm_1_cp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "328a7b52a80376c09e8922289688d0eb36fc6aceb0c410a8bc94cdf9ff99e63b",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cm_n4",
+    "folder": "runs\\pmode_footing_nm_1_cm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "b130293c0e538ec0f2c355502e67a52224bc86850bb59efb986521fdaef92fcb",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wp_n4",
+    "folder": "runs\\pmode_footing_nm_1_wp_n4\\k5x3_d4x20_a3_h4",
+    "hash": "f6a31fda797743b465a77892c83af28032f5178ecbf692cdf1f2d56c351db6ca",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wm_n4",
+    "folder": "runs\\pmode_footing_nm_1_wm_n4\\k10x3_d4x20_a3_h4",
+    "hash": "77be1da1f3a0e86b2b58a1d4556e1c87f5ff47325e38b10062d787a14e206ce3",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cp_n8",
+    "folder": "runs\\pmode_footing_nm_1_cp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "e148697ad23e898f05deaa137b922ec52200f3532f9d26a6780cb454ee294864",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cm_n8",
+    "folder": "runs\\pmode_footing_nm_1_cm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "19394fff7cfc2455d7082c6c8d7f69b312ca6d3291c6404a84ef927d03604fba",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wp_n8",
+    "folder": "runs\\pmode_footing_nm_1_wp_n8\\k5x2_d4x20_a3_h4",
+    "hash": "c2371811a4646d4fa7b046d836aedc12b08f71835945180057ec9c798aa4b9fc",
+    "group": "profile_kernel",
+    "settings": "k5x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wm_n8",
+    "folder": "runs\\pmode_footing_nm_1_wm_n8\\k10x2_d4x20_a3_h4",
+    "hash": "b0a051ae246ca1028e7a2c2d9a55399db555a7f0b8e4d68bd6e7c549f7f8245b",
+    "group": "profile_kernel",
+    "settings": "k10x2_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cp_n2",
+    "folder": "runs\\pmode_footing_nm_1_cp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "89e8c2680cb942f7ffe2f7cf91e60adf41346b658f6fc167712b0a0b93858cf9",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cm_n2",
+    "folder": "runs\\pmode_footing_nm_1_cm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "d09ca902ea6958899c7690728e904e3418706071440237c194be4237f87616e9",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wp_n2",
+    "folder": "runs\\pmode_footing_nm_1_wp_n2\\k5x3_d4x20_a3_h4",
+    "hash": "9ee74de910a6ea4c83c2d50868eef7c9531a5c5df8b17f7823a75da99d296c9b",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wm_n2",
+    "folder": "runs\\pmode_footing_nm_1_wm_n2\\k10x3_d4x20_a3_h4",
+    "hash": "de70f4e8d4db87c0bfe0c79ba993f50af47e7b4ccb0660c6d76dd78f1c916cfd",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cp_n1",
+    "folder": "runs\\pmode_footing_nm_1_cp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "cc0c3518464b97e234c1dfccbb5a5b0940b3104929002e0797f85cac8483acdb",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cm_n1",
+    "folder": "runs\\pmode_footing_nm_1_cm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "98e1568baee35a80555dcdc6fd307f3eb849a97e43bd61b3dd2b266ac49547ab",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wp_n1",
+    "folder": "runs\\pmode_footing_nm_1_wp_n1\\k5x3_d4x20_a3_h4",
+    "hash": "e675b54f78157c512800cabd25136385e852fc67d864cec680830d248f3bfc93",
+    "group": "profile_kernel",
+    "settings": "k5x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wm_n1",
+    "folder": "runs\\pmode_footing_nm_1_wm_n1\\k10x3_d4x20_a3_h4",
+    "hash": "fb8191f336320ce940658037418db77860daaff75dbd02b1c3d1d6ec638e4815",
+    "group": "profile_kernel",
+    "settings": "k10x3_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cp_n16",
+    "folder": "runs\\pmode_footing_nm_1_cp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "e874540aaa75619ff2d2f2bb5c888dd64ad6184e3dec2a68de5f849a81901d30",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_cm_n16",
+    "folder": "runs\\pmode_footing_nm_1_cm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "1adbe7a6f9566b24b276725ccecc689bf8070d5f55bd4426fbeaedb2335ef1cd",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wp_n16",
+    "folder": "runs\\pmode_footing_nm_1_wp_n16\\k5x1_d4x20_a3_h4",
+    "hash": "9fd58ee05680c51c1f893918ff545c6c34bfd3bd1d9010ffc9cffae986f570a7",
+    "group": "profile_kernel",
+    "settings": "k5x1_d4x20_a3_h4"
+  },
+  {
+    "case": "pmode_footing_nm_1_wm_n16",
+    "folder": "runs\\pmode_footing_nm_1_wm_n16\\k10x1_d4x20_a3_h4",
+    "hash": "368e57b9fc54d6397c1c19db195b913b5f521185e23a634820c8b60f63d11959",
+    "group": "profile_kernel",
+    "settings": "k10x1_d4x20_a3_h4"
+  }
+]

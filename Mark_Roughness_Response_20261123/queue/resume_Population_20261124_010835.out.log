@@ -1,0 +1,3 @@
+Worker 41504 .\design.py factors --threads 5
+Worker exit code 0
+Worker 47076 .\design.py bands --threads 5
